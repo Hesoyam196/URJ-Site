@@ -1,0 +1,313 @@
+html {
+	height: 100%;
+}
+
+body {
+	font-family: "Arial";
+	color: #363636;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	background-image: url("/img/bg.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+.main-logo{
+	display: table-cell;
+	margin-left: 17%;
+	align-self: center;
+}
+
+.main-logo img{
+	height: 50px;
+	width: 50px;
+	vertical-align: middle;
+}
+
+header {
+	width: 100%;
+	display: flex;
+	background-color: #4C83AC;
+	justify-content: center;
+
+}
+
+.nav-menu li {
+	padding-top: 2.5px;
+	padding-bottom: 2.5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-left: 1px solid #363636;
+	color: white;
+	font-weight: bold;
+    list-style-type: none;
+}
+
+.nav-menu li a{
+	font-family: "Arial";
+	font-size: 16px;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.nav-menu li:last-child {
+	border-right: 1px solid #363636;
+}
+
+.img-auth {
+	align-self: center;
+	height: 30px;
+	width: 30px;
+}
+
+.header-title {
+	text-decoration: none;
+	font-style: normal;
+	font-family: "Arial";
+	align-self: center;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	margin: 0;
+	padding: 0;
+	margin-left: 5px;
+}
+
+.nav-menu {
+	width: 50%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.authorization {
+	display: flex;
+	align-self: center;
+	margin-left: 10%;
+}
+
+.authorization p a{
+	font-family: "Arial";
+	font-size: 16px;
+	text-decoration: none;
+	align-self: center;
+	font-weight: bold;
+	color: white;
+}
+
+main {
+	max-width: 1280px;
+	min-width: 480px;
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 50%;
+	border: 1px solid gray;
+	border-top: none;
+	border-bottom: none;
+	padding: 10px;
+	flex: 1 0 auto;
+}
+
+footer {
+	flex: 0 0 auto;
+	font-family: "Arial";
+	font-size: 16px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	background-color: #4C83AC;
+}
+
+main h1 {
+	font-size: 32px;
+	margin-top: 0;
+}
+
+main .greeting h1 {
+	text-align: center;
+}
+
+.map {
+	margin-bottom: 40px;
+}
+
+.redactions-stages {
+	border-spacing: 0;
+	border: 1px solid #355B78;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.redactions-stages th {
+	padding: 2px;
+	border-bottom: 1px solid #355B78;
+	padding-right: 5px;
+}
+
+.redactions-stages td:first-child {
+	padding: 2px;
+	padding-right: 5px;
+}
+
+.redactions-stages td:last-child {
+	padding: 2px;
+	padding-left: 5px;
+	border-left: 1px solid #355B78;
+}
+
+.delimeter {
+	display: block;
+	margin: 25px;
+	width: 100%;
+	max-height: 8px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button-link {
+	text-decoration: none;
+	color: black;
+	padding: 7px;
+	margin: 5px;
+	margin-left: 0;
+	border: 1px solid #899FB3;
+	border-radius: 2px;
+	text-align: center;
+	background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
+	font-size: 16px;
+}
+
+.to_authorsstyle {
+	display: flex;
+	align-items: center;
+}
+
+.article-info {
+	margin-left: 5%;
+	display: flex;
+	flex-direction: column;
+}
+
+a:not(.button-link):not(.journal):active {
+	position: relative;
+	top: 1px;
+	color:#E6E6E6;
+}
+
+.button-link:active {
+	position: relative;
+	top: 1px;
+	background: linear-gradient(45deg, #E6E0C8, #C7B2D9);
+}
+
+.journal:active {
+	color: #292929;
+}
+
+.current-edition {
+	padding-top: 15px;
+	border-top: 1px solid #363636;
+	margin-top: 10px;
+	display: grid;
+	align-items: center;
+	column-gap: 10px;
+	grid-template-columns: 25% 75%;
+	grid-template-rows: 10% 90%;
+}
+
+.current-edition h1 {
+		font-size: 24px;
+	grid-column: 1/2;
+	grid-row: 1/2;
+}
+
+.current-edition .journal-title {
+		font-size: 24px;
+	grid-column: 2/3;
+	grid-row: 1/2;
+}
+
+.current-edition .cover{
+	align-items: center;
+	grid-column: 1/2;
+	grid-row: 2/3;
+}
+
+.current-edition .description{
+	grid-column: 2/3;
+	grid-row: 2/3;
+}
+
+.current-edition .description h2{
+	margin-top: 5px;
+	font-size: 20px;
+	margin-left: 40px;
+}
+
+.current-edition .description ul li{
+	margin-top: 5px;
+	font-size: 16px;
+}
+
+.current-edition .journal-title {
+	margin-left: 40px;
+}
+
+.description h2 a{
+	text-align: right;
+	font-weight: normal;
+}
+
+.description h2 a:first-child {
+	margin-left: 15%;
+}
+
+.current-edition-img {
+	width: 100%;
+	align-self: center;
+}
+
+.current-edition-line {
+	align-self: center;
+	height: 320px;
+	margin-right: 5px;
+}
+
+.cover {
+	display: flex;
+	//justify-content: center;
+}
+
+
+
+.redactions ul li{
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.redactions ul{
+	padding-left: 0;
+}
+
+h4 {
+	margin: 0;
+}
+
+span {
+	color: black;
+	padding: 2px;
+	border: 1px solid #899FB3;
+	border-radius: 5px;
+	text-align: center;
+	background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
+	font-size: 16px;
+}
