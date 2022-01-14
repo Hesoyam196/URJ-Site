@@ -83,19 +83,44 @@ header {
 	justify-content: space-between;
 }
 
-.authorization {
-	display: flex;
-	align-self: center;
+.authorization{
 	margin-left: 10%;
+	align-self: center;
 }
 
-.authorization p a{
+.authorization button{
+	padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+	display: flex;
+	align-self: center;
+}
+
+.authorization p{
 	font-family: "Arial";
 	font-size: 16px;
 	text-decoration: none;
 	align-self: center;
 	font-weight: bold;
 	color: white;
+}
+
+.authorization a:last-child{
+	margin-left: 38px;
+}
+
+.authorization a{
+	vertical-align: middle;
+	font-family: "Arial";
+	font-size: 16px;
+	text-decoration: none;
+	align-self: center;
+	font-weight: bold;
+	color: white;
+	margin-left: 20px;
 }
 
 main {
@@ -129,7 +154,11 @@ footer {
 
 main h1 {
 	font-size: 32px;
-	margin-top: 0;
+	margin-top: 5px;
+}
+
+main p {
+	margin-left: 25px;
 }
 
 main .greeting h1 {
@@ -214,9 +243,6 @@ a:not(.button-link):not(.journal):active {
 }
 
 .current-edition {
-	padding-top: 15px;
-	border-top: 1px solid #363636;
-	margin-top: 10px;
 	display: grid;
 	align-items: center;
 	column-gap: 10px;
@@ -311,3 +337,4 @@ span {
 	background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
 	font-size: 16px;
 }
+

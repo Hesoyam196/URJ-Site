@@ -6,9 +6,11 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/css/journal_style.css">
+				<link rel="stylesheet" href="/css/authorization_style.css">
 		<title>Ural Radio Engineering</title>
 	</head>
 	<body>
+		<?php require "authorization.php" ?>
 		<?php require "header.php" ?>
 		<main>
 			<div class="archive">

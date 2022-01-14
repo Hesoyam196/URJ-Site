@@ -10,11 +10,24 @@
 			<li><a href="to_authors.php">Авторам</a></li>
 			<li><a href="redactors.php">Редакция</a></li>
 			<li><a href="contacts.php">Контакты</a></li>
-			<li><a href="#">Поиск</a></li>
 		</ul>
 	</nav>
-	<div class="authorization">
-		<img class="img-auth" src="/img/auth.png">
-		<p><a href="#">Авторизация</a></p>
-	</div>
+	<?php
+	if(isset($_SESSION['login'])) {
+		$login = $_SESSION['login'];
+		echo "<div class=\"authorization\">
+		<a style=\"font-size: 32px;\" href=\"admin.php\">+</a>
+		<a href='php/logout.php'>Выйти</a>
+		</div>";
+	}
+	else {
+		$login = $_SESSION['login'];
+		echo "<div class=\"authorization\">
+			<button onclick=\"show('block')\">
+			<img class=\"img-auth\" src=\"/img/auth.png\">
+			<p>Авторизация</p>
+		</button>
+		</div>";
+	}
+	?>
 </header>

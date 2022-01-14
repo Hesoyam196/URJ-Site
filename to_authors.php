@@ -5,17 +5,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/authorization_style.css">
 		<title>Ural Radio Engineering</title>
 	</head>
 	<body>
+		<?php require "authorization.php" ?>
 		<?php require "header.php" ?>
 		<main>
 			<h1>Aвторам</h1>
-			<p>Публикация для всех авторов бесплатна. К публикации принимаются статьи на русском и английском языках. 
-			Все статьи должны содержать развернутые аннотации на английском языке.К рассмотрению принимаются ранее не 
+			<p>Публикация для всех авторов бесплатна. К публикации принимаются статьи на русском и английском языках.
+			Все статьи должны содержать развернутые аннотации на английском языке.К рассмотрению принимаются ранее не
 			опубликованные и не находящиеся на рассмотрении в других журналах статьи, объемом от 0,5 до 1,5 авт.л.</p>
-			
-			Все статьи принимаются по электронной почте urj@urfu.ru
+
+			<p>Все статьи принимаются по электронной почте urj@urfu.ru</p>
 			<img class="delimeter" src="/img/delimeter.png">
 			<div class="review-info">
 			Принципы рецензирования статей
@@ -40,7 +42,7 @@
 					<li>корректура верстки.</li>
 				</ol>
 			</div>
-			
+
 
 
 			<div class="to_authorsstyle">
@@ -65,14 +67,14 @@
 					<td>принятие решения</td>
 					<td>1 - 2 недели</td>
 				</tr>
-			</table>		
+			</table>
 
 			<div class="article-info">
 				<a class="button-link" href="#">Требования к статьям</a>
 				<a class="button-link" href="#">Правила оформления статьи</a>
 				<a class="button-link" href="#">Публикационная этика</a>
-			</div>	
-			</div>			
+			</div>
+			</div>
 		</main>
 		<?php require "footer.php" ?>
 	</body>

@@ -18,8 +18,6 @@ body {
 	align-items: center;
 	column-gap: 3.33%;
 	grid-template-columns: 22.5% 22.5% 22.5% 22.5%;
-	border-top: 1px solid gray;
-	padding-bottom: 10px;
 }
 
 .edition a{
@@ -28,7 +26,7 @@ body {
 	padding: 15px;
 	display: flex;
 	flex-direction: column;
-	margin-top: 10px;
+
 	text-decoration: none;
 	color: #363636;
 }
@@ -41,7 +39,7 @@ body {
 }
 
 .year h3{
-	margin-bottom: 0;
+	margin: 0;
 	grid-column: 1/5;
 	margin-left: 20px;
 	font-family: "Arial";

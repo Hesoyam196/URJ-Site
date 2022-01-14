@@ -5,10 +5,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<link rel="stylesheet" href="/css/style.css">
+		<link rel="stylesheet" href="/css/authorization_style.css">
 		<title>Ural Radio Engineering</title>
 	</head>
 	<body>
-		<?php require "header.php" ?>
+		<?php require "authorization.php" ?>
+		<?php require "header.php"?>
 		<main class="main-page">
 			<div class="greeting">
 			<h1>Уральский радиотехнический журнал</h1>
@@ -16,7 +18,7 @@
 			посвященный последним достижениям радиоэлектроники и связи.</p>
 			<p>Редакция журнала отдаёт предпочтение практическим исследованиям, связанным с освоением критических промышленных технологий,
 			реализация которых обеспечит создание высокоэффективной конкурентоспособной радиоэлектронной продукции.</p>
-			<a class="button-link" href="https://www.akc.ru/itm/ural-radio-engineering-journal/" target="_blank">Оформить подписку</a>
+			<p><a class="button-link" href="https://www.akc.ru/itm/ural-radio-engineering-journal/" target="_blank">Оформить подписку</a></p>
 			<img class="delimeter" src="/img/delimeter.png">
 			<p>Включен в Объединенный каталог «Пресса России». Индекс 33049</p>
 			<p>Журнал входит в Перечень рецензируемых научных изданий (с 15.04.2021), рекомендованных ВАК для публикации основных научных
@@ -33,6 +35,7 @@
 			<p>Полнотекстовая версия журнала находится в режиме свободного доступа: на сайте журнала,
 			в электронном научном архиве УрФУ и на платформе Научной электронной библиотеки (РИНЦ).
 			</div>
+			<img class="delimeter" src="/img/delimeter.png">
 			<?php require "php/current_edition_load.php" ?>
 		</main>
 		<?php require "footer.php" ?>
