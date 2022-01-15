@@ -3,7 +3,7 @@
     <img class="close" src="img/close.png" alt=""  onclick="show('none')">
     <div class="form">
         <h2>Вход</h2>
-        <form action="index.php" name="f1" method="POST">
+        <form name="f1" method="POST">
             <input type="text" placeholder="Логин" name="login" class="input">
             <input type="password" placeholder="Пароль" name="password" class="input">
             <div class="button-i">

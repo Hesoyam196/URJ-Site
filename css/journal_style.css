@@ -2,6 +2,15 @@ body {
 	font-family: "Arial";
 }
 
+button {
+	padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
+}
+
 .archive h1 {
 	margin-left: 10px;
 	font-family: "Arial";
@@ -20,22 +29,28 @@ body {
 	grid-template-columns: 22.5% 22.5% 22.5% 22.5%;
 }
 
-.edition a{
+.edition .journal{
 	//border: 1px solid #363636;
 	//border-radius: 5px;
 	padding: 15px;
 	display: flex;
 	flex-direction: column;
-
+	text-align: center;
 	text-decoration: none;
 	color: #363636;
 }
 
-.edition a p{
+img {
+	width: 100%;
+}
+
+.edition .journal button p{
 	text-align: center;
 	font-family: "Arial";
 	font-size: 15px;
 	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .year h3{
@@ -46,3 +61,4 @@ body {
 	font-size: 24px;
 	font-weight: bold;
 }
+

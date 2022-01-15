@@ -36,6 +36,4 @@ if(isset($_SESSION['login'])) {
   $login = $_SESSION['login'];
   echo "Вы вошли!!";
 }
-
-
 ?>

@@ -27,7 +27,7 @@ foreach ($elements as $key => $element) {
         </div>
         <h1 class="journal-title"><?php echo "Том " . (string)((int)$years[0] - 2016)  . ", № " . $journals_in_year[0] . " (" . $years[0] . "): URAL RADIO ENGINEERING JOURNAL"?></h1>
         <div class="description">
-          <h2>Содержание<a class="button-link" target="_blank" href="<?php echo $pdf_journal_path; ?>">Читать выпуск</a><a class="button-link" href="<?php echo $pdf_journal_path; ?>" download>Скачать выпуск</a></h2>
+          <h2>Содержание<a class="button-link" href="edition.php">Посмотреть выпуск</a><a class="button-link" href="<?php echo $pdf_journal_path; ?>" download>Скачать выпуск</a></h2>
           <ul>
             <li>Терагерцовый сканирующий рефлектометр для визуализации строения полимерных конструкций в аддитивном производстве
               A. I. Berdyugin, A. V. Badin, R. P. Gursky, E. A. Trofimov, G. E. Kuleshov</li>

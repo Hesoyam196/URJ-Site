@@ -84,7 +84,7 @@ header {
 }
 
 .authorization{
-	margin-left: 10%;
+	margin-left: 15%;
 	align-self: center;
 }
 
@@ -109,7 +109,7 @@ header {
 }
 
 .authorization a:last-child{
-	margin-left: 38px;
+	margin-left: 20px;
 }
 
 .authorization a{
@@ -131,11 +131,11 @@ main {
 	margin-right: auto;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	width: 50%;
+	width: 45%;
 	border: 1px solid gray;
 	border-top: none;
 	border-bottom: none;
-	padding: 10px;
+	padding: 25px;
 	flex: 1 0 auto;
 }
 
@@ -196,13 +196,14 @@ main .greeting h1 {
 .delimeter {
 	display: block;
 	margin: 25px;
-	width: 100%;
+	width: 98%;
 	max-height: 8px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .button-link {
+	cursor: pointer;
 	text-decoration: none;
 	color: black;
 	padding: 7px;
@@ -338,3 +339,46 @@ span {
 	font-size: 16px;
 }
 
+.downloadform {
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.downloadform label{
+	margin-bottom: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.downloadform input{
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.downloadform .button-link{
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.downloadform textarea{
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.article {
+	background-color: #666666;
+}
+
+.contacts p {
+	margin: 0;
+}
+
+.contact {
+	margin-bottom: 15px;
+}
