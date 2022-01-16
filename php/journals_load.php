@@ -21,13 +21,9 @@ foreach ($years as $key_year => $year) {
           $img_journal_path = $element;
       }
       $img_journal_path = "/journals" . "/" . $year . "/" . $journal . "/" . $img_journal_path;
-      // echo ("<div class=\"edition\">
-      //         <a class=\"journal\" target=\"_blank\" href=\"" . "/journals" . "/" . $year . "/" . $journal . "/" . $pdf_journal_path . "\" onclick=\"send(this)\">
-      //         <img src=\"" . $img_journal_path . "\">
-      //         <p>Том " . (string)((int)$year - 2016)  . ", № " . $journal . " (" . $year . "): URAL RADIO ENGINEERING JOURNAL</p></div></a>");
               echo ("<div class=\"edition\">
                       <form class=\"journal\" action=\"edition.php\" method=\"GET\">
-                      <input type=\"hidden\" name=\"path\" value=\"/journals" . "/" . $year . "/" . $journal . "\"/>
+                      <input type=\"hidden\" name=\"path\" value=\"journals" . "/" . $year . "/" . $journal . "\"/>
                       <button>
                       <img src=\"" . $img_journal_path . "\">
                       <p>Том " . (string)((int)$year - 2016)  . ", № " . $journal . " (" . $year . "): URAL RADIO ENGINEERING JOURNAL</p></button></form></div>");
@@ -36,5 +32,4 @@ foreach ($years as $key_year => $year) {
     echo "</div>";
   }
 }
-#/journals" . "/" . $year . "/" . $journal . "
 ?>

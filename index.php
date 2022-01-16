@@ -12,13 +12,16 @@
 		<?php require "authorization.php" ?>
 		<?php require "header.php"?>
 		<main class="main-page">
+		<div class="ISSN">
+			<p>ISSN онлайн-версии: <span>2588-0462</span></p>
+			<p>ISSN печатной версии: <span>2588-0454</span></p>
+		</div>
 			<div class="greeting">
 			<h1>Уральский радиотехнический журнал</h1>
 			<p>Рецензируемый международный научно-технический журнал с открытым доступом,
 			посвященный последним достижениям радиоэлектроники и связи.</p>
 			<p>Редакция журнала отдаёт предпочтение практическим исследованиям, связанным с освоением критических промышленных технологий,
 			реализация которых обеспечит создание высокоэффективной конкурентоспособной радиоэлектронной продукции.</p>
-			<p style="text-align: center;"><a style="padding: 10px 40px;" class="button-link" href="https://www.akc.ru/itm/ural-radio-engineering-journal/" target="_blank">Оформить подписку</a></p>
 			<img class="delimeter" src="/img/delimeter.png">
 			<p>Включен в Объединенный каталог «Пресса России». Индекс 33049</p>
 			<p>Журнал входит в Перечень рецензируемых научных изданий (с 15.04.2021), рекомендованных ВАК для публикации основных научных
@@ -34,6 +37,14 @@
 			и не находящиеся на рассмотрении в других журналах статьи, объемом от 0,5 до 1,5 авт.л.
 			<p>Полнотекстовая версия журнала находится в режиме свободного доступа: на сайте журнала,
 			в электронном научном архиве УрФУ и на платформе Научной электронной библиотеки (РИНЦ).
+			</div>
+			<p style="text-align: center;"><a style="padding: 15px 40px;" class="button-link" href="https://www.akc.ru/itm/ural-radio-engineering-journal/" target="_blank">Оформить подписку</a></p>
+			<div class="logos">
+				<img class="logo" src="/img/clogos/cross_ref1.png">
+				<img class="logo" src="/img/clogos/elibrary_ru1.png">
+				<img class="logo" src="/img/clogos/road1.png">
+				<img class="logo" src="/img/clogos/wclogo_block.png">
+				<img class="logo" src="/img/clogos/Google_Scholar_logo_20151.png">
 			</div>
 			<img class="delimeter" src="/img/delimeter.png">
 			<?php require "php/current_edition_load.php" ?>

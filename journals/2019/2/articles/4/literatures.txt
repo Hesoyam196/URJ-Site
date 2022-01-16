@@ -1,0 +1,61 @@
+Горелик Г. С. Линейные резонансные явления в суперрегенеративном приемнике. Электросвязь. 1939;(6):29–49.
+Гуткин Л. С. Действие помех на суперрегенератор. Ч. 1. Радио- техника. 1946;1(9):40–62.
+Whitehead I. R. Super-Regenerative Receivers. Cambridge University Press; 1950.
+Томсон В. Суперрегенеративные усилители на сантиметровых волнах. Зарубежная радиоэлектроника. 1962;(8):105–112.
+Белкин М. К. Сверхрегенеративный радиоприем. Киев: Техника; 1968.
+Кравченко Г. И., Марков Ф. В., Гуревич В. Л. и др. Ударные колебания и пороговая чувствительность сверхрегенеративных усилителей. Радиотехника. 1973(6):15.
+Белкин М. К., Кравченко Г. И., Скоробутов Ю. Г., Стрюков Б. А. Сверхрегенераторы. М.: Радио и связь; 1983.
+Ермаков В. И., Кузенков А. Ф., Юрманов В. А. Системы зондирования атмосферы. Л.: Гидрометиздат; 1977.
+Armstrong E. H. Some recent developments of regenerative circuits. Proc. IRE. 1922;10:244–260.
+Moncunill-Geniz F. X., Pala-Schonwalder P., Mas-Casals O. A generic approach to the theory of superregenerative reception. IEEE Transactions on Circuits and Systems-I. 2005;52(1):54–70.
+Chen J. Y., Flynn M. P., Hayes J. P. A 3.6mW 2.4-GHz multi- channel super-regenerative receiver in 130nm CMOS. In: Proc. IEEE Custom Integrated Circ. Conference, September 2005, pp. 361–364.
+Otis B., Chee Y. H., Rabaey J. A 400uW-RX, 1.6mW-TX super- regenerative transceiver for wireless sensor networks. In: Digest of Technical Papers of the IEEE Int. Solid-State Circ. Conference, San Francisco, February 2005. Vol. 1, pp. 396–397, 606.
+Joehl N., Dehollain C., Favre P., Deval P., Declerq M. A low-power 1-GHz super-regenerative transceiver with time-shared PLL control. IEEE Journal of Solid-State Circuits. 2001;36:1025–1031.
+Favre P., Joehl N., Vouilloz A., Deval P., Dehollain C., Declercq M. J. A 2-V 600-?A 1-GHz BiCMOS superregenerative receiver for ISM applications. IEEE Journal of Solid-State Circuits. 1998;33:2186–2196.
+Moncunill-Geniz F. X., Pala-Schonwalder P., Dehollain C., Joehl N., Declercq M. A 2.4-GHz DSSS superregenerative receiver with a simple delay-locked loop. IEEE Microwave and Wireless Components Letters. 2005;15:499–501.
+Vouilloz A., Declercq M., Dehollain C. A low-power CMOS super- regenerative receiver at 1 GHz. IEEE Journal Solid-state circuits. 2001;36:440–451.
+Vouilloz A., Declercq M., Dehollain C. Selectivity and sensitivity performances of superregenerative receivers. Proc. ISCAS’98. 1998;4:325–328.
+Moncunill-Geniz F. X., Dehollain C., Joehl N., Declercq M., Pala-Schonwalder P. A 2.4-GHz Low-Power Superregenerative RF Front-End for High Data Rate Applications. In: Microwave Conference,
+th European, September 2006, pp. 1537–1540.
+Favre P., Joehl N., Declercq M., Dehollain C., Deval P. A 2V,
+mkA, 1 GHz, BiCMOS super-regenerative receiver. In: ISSCC Digest of Technical Papers, San Francisco, 1998, vol. 41, pp. 128–129.
+Vouilloz A., Declercq M., Dehollain C. Selectivity and sensitivity performances of superregenerative receivers. In: CD-ROM and Proceeding of ISCAS 98’ Conference, Monterey (USA), 1998.
+Vouilloz A., Dehollain C., Declercq M. Modelisation and Simulation of Integrated Super-Regenerative Receivers. In: CD-ROM and Proceeding of ICECS 99’ Conference, Pafos (Cyprus), 5–8 September 1999, vol. 1, pp. 521–524.
+Koukab A., Declercq M., Dehollain C. Analysis and Simulation of Substrate Coupling in RF IC. In: Proceedings of the International Workshop on Low Power RF integrated Circuits, Lausanne (Switzerland), 19–20 October 1999.
+Favre P., Joehl N., Declercq M., Dehollain C., Deval P. A PLL stabilized Super-Regenerative Transceiver. In: Proceedings of the International Workshop on Low Power RF integrated Circuits, Lausanne (Switzerland), 19–20 October 1999.
+A. Vouilloz, Dehollain C., Declercq M. A Low Power CMOS Super- Regenerative Receiver at 1 GHz. In: CD-ROM and Proceedings of CICC 2000’ Conference, Orlando (USA), 21–24 May 2000.
+Joehl N., Favre P., Deval P., Vouilloz A., Dehollain C., Declercq M. A BiCMOS Micropower 1 GHz Super-Regenerative Receiver. In: Proceeding of URSI ISSSE 98’ Conference, Pisa (Italy) 1998, pp. 74–78.
+Favre P., Joehl N., Vouilloz A., Deval P., Dehollain C., Declercq M. A 2V 600 uA 1 GHz BiCMOS Super-Regenerative Receiver for ISM Applications. IEEE Journal of Solid-State Circuits. 1998;33(12):2186–2196.
+Dehollain C., Declercq M., Joehl N., Favre P., Deval P., Chenes P., Sultan, Bellini G., Besseux P., Valence V., Magnin R. Low Power Wireless Data Transmis-sion Systems at Short Distance for ISM Applications. In: Proceeding of BSD LPD 2000’ Workshop, Rapallo (Italy), 25 and 28 July 2000, pp. 213–243.
+Favre P., Joehl N., Deval P., Declercq M., Dehollain C. A Low Power 1 GHz Super-Regcncrative Transceiver with time-shared PLL control. In: Proceedings of the European Solid-State Circuits Conference (ESSCIRC), Stockholm (Sweden), 19–21 September 2000, pp. 84–87.
+Vouilloz A., Declercq M., Dehollain C. A low-power CMOS super- regenerative receiver at 1 GHz. IEEE Journal of Solid-State Circuits. 2001;36(3):440–451. DOI: 10.1109/4.910483.
+Bradley W. E. Superregenerative. Electronics. 1948;(Sept.):96–98.
+Joehl N., Dehollain C., Favre P., Deval P., Declercq M. A low- power 1 GHz Super-Regenerative Transceiver with time-shared PLL control. IEEE Journal of Solid-State Circuits. 2001;36(7):1025–1031. DOI: 10.1109/4.933457.
+Moncunill-Geniz F., Pala-Schonwalder P., Mas-Casals O. A generic approach to the theory of superregenerative reception. IEEE Transactions on Circuits and Systems I: Regular Papers. 2005;52(1):54–70.
+Vouilloz A., Declercq M., Dehollain C. Selectivity and sensitivity performances of superregenerative receivers. ISC AS 98. In: Proceedings of the 1998 IEEE International Symposium on Circuits and Systems.
+Lee D., Mercier P. P. Noise Analysis of Phase-Demodulating Receivers Employing Super-Regenerative Amplification. IEEE Transactions on Microwave Theory and Techniques. 2017;PP(99):1–13. DOI: 10.1109/TMTT.2017.2686860.
+Hernandez L., Paton S. A superregenerative receiver for phase and frequency modulated carriers. In: Proceedings of the 2002 International Symposium on Circuits and Systems, ISCAS 2002, Scottsdale, Arizona, USA, May 26–29, 2002. IEEE; 2002, pp. 81–84. DOI: 10.1109/ ISCAS.2002.1010165.
+Insam E. Designing Super-Regenerative Receivers. Electronics World; 2002.
+Frey D. R. Improved Super-Regenerative Receiver Theory. IEEE Transactions on Circuits and Systems I: Regular Papers. 2013;60(12):3267– 3278. DOI: 10.1109/TCSI.2013.2265971.
+Frey D. Synchronous filtering. In: 2006 IEEE Transactions on Circuits and Systems.
+Pala-Schonwalder P., Moncunill-Geniz F., Bonet-Dalmau X., Aguila-Lopez F. D., Giralt-Mas J. R. A BPSK superregenerative receiver.Preliminary results. In: 2009 TEEE International Symposium on Circuits and Systems, Taipei, 24–27 May 2009. DOI: 10.1109/ISCAS.2009.5118061.
+Lathi B. P. Signal processing and linear systems. New York: Oxford
+University Press; 2016.
+Thoppay P. E., Dehollain C., Declercq M. J. Noise analysis in super-
+regenerative receiver systems. 2008 Ph.D. Research in Microelectronics and Electronics, Istanbul, 22 June–25 April 2008. DOI: 10.1109/ RME.2008.4595757.
+Feick R., Rojas O. Modeling and simulation of the superregenerative receiver. IEEE Transactions on Consumer Electronics. 1997;43(2):92–102.
+Bonet-Dalmau J., Moncunill-Geniz F. X., Pala-Schonwalder P., Aguila-Lopez F. D., Giralt-Mas R. Frequency Domain Analysis of Super- regenerative Receivers in the Linear and the Logarithmic Modes. IEEE Transactions on Circuits and Systems I: Regular Papers. 2012;59(5):1074–
+DOI: 10.1109/TCSI.2012.2185296.
+Иванов В. Э. Исследование регенеративной характеристики транзисторного СВЧ-автогенератора. В: Панченко Б. А. (ред.) Радиотехнические системы локации пространственно-распределенных объектов: Оптимизация и моделирование. Свердловск: УПИ; 1981. С. 93–99.
+Иванов В. Э. Исследование динамической регенеративной характеристики транзисторного СВЧ-автогенератора. Свердловск; 1981.
+Кудинов С. И., Иванов В. Э. Исследование обобщенной регенеративной характеристики транзисторного СВЧ-автогенератора. В: СВЯЗЬПРОМ 2006: труды межд. науч.-практ. конф. на III Евро-Азиатского форуме «СВЯЗЬПРОМЭКСПО 2006», Екатеринбург, 3–5 мая
+Екатеринбург: Компания Реал – Медиа; 2006. С. 106–108.
+Иванов В. Э. Исследование механизма вторичной реакции сверхрегенеративного приемопередатчика. Свердловск; 1979.
+Иванов В. Э., Кудинов С. И. Некоторые вопросы нелинейной теории сверхрегенеративного приемопередатчика. В: Современные проблемы создания и эксплуатации радиотехнических систем: труды Третьей всерос. науч.-практ. конф. (с участием стран СНГ). Улья-
+новск; 2001.
+Иванов В. Э., Фридзон М. Б., Ессяк С. П. Радиозондирова-
+ние атмосферы. Технические и метрологические аспекты разработки и применения радиозондовых измерительных средств. Екатеринбург: УрО РАН; 2004.
+Иванов В. Э., Гусев А. В., Игнатков К. А. и др. Современное состояние и перспективы развития систем радиозондирования атмосферы в России. Успехи современной радиоэлектроники. 2015;(9):3–49.
+Иванов В. Э., Кудинов С. И. Исследование влияния флуктуационных и ударных колебаний на чувствительность сверхрегенеративного приемопередатчика. В: СВЯЗЬ-ПРОМ 2007: труды межд. науч.- практ. конф. на IV Евро-Азиатском форуме «СВЯЗЬ-ПРОМЭКСПО 2007», Екатеринбург, 2–4 мая 2007. Екатеринбург: Компания Реал – Медиа; 2007. С. 78–80.
+Кудинов С. И., Иванов В. Э. Ударные колебания и чувствительность cверхрегенеративного приемопередатчика. В: Наука – Образование Производство: «Опыт и перспектива развития»: материалы рег. науч.-техн. конф. Нижний Тагил; 2007. С. 171–173.
+Кудинов С. И., Иванов В. Э. Исследование флуктуаций затухания колебательной системы сверхрегенеративного приемопередатчика в приемном режиме. В: СВЯЗЬ-ПРОМ 2007: труды межд. науч.- практ. конф. на IV Евро-Азиатском форуме «СВЯЗЬ-ПРОМЭКСПО 2007», Екатеринбург, 2–4 мая 2007. Екатеринбург: Компания Реал – Медиа; 2007. С. 91–93.

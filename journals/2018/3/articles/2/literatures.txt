@@ -1,0 +1,7 @@
+Kalachev P. D. Zhestkost parabolicheskogo reflector nagruzhennogo sobstvennym vesom [Rigidity of parabolic reflector loaded by gravity].Trudy LEBEDEV FIAN, 1967, vol. 38. (In Russian)
+Korpeev B. R. Issledovanie vliyaniya teplootrazhayuxhchikh pokrytiy na temperaturnyy rezhim parabolicheskikh otrazhateley [Study of the heat reflecting cover influencing the parabolic reflector temperature conditions]. Ashkh., FTI AN TSSR, 1982, 158 p. (In Russian)
+Popov A. S. O besprovolochnoy telegrafii [On wireless telegraphy]. Ed. & introd. by Berg A. I. Moscow, Fizmatgiz, 1959. (In Russian)
+Bayramov R. B., Toyliev K. T., Galkanov A. N. Teplovoy rezhim parab- oloidnogo otrazhatelya [Thermal conditions of parabolic reflector]. Izv. AN TSSR, 1973, no. 6, p. 9–14. (In Russian)
+Bapbyev Yu. R. Formirovanie temperaturnykh poley i termodeformatsiy [Formation of temperature fields and thermal deformations]. Ashkh. NPO “Solntse”, 1988. P. 132. (In Russian)
+Borovkov A. I., Zubov A. V. Konechno elementnoe reshenie statsion- arnykh i nestatsionarnykh nelineynykh zadach teploprovodnosti geterogennykh anizotropnykh sred [Finite-element solution of stationary and nonstationary nonlinear problems of heat conductivity in heterogeneous anisotropic media]. Moscow, VINITI, N897-Â94, 1994. 44 p. (In Russian)
+ANSYS. Theory reference. Rel. 14.5/ANSYS Inc.

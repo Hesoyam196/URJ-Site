@@ -1,0 +1,6 @@
+Куприянов П. В. Широкополосные приемные устройства СВЧ с расширенным динамическим диапазоном. Радиотехника. 2006;(3):8–13.
+Cornwell G., Gupta Ch. Investigate Wideband Frequency Converters. Available at: https://www.mwrf.com/technologies/systems/ article/21846688/investigate-wideband-frequency-converters
+Cripps S. C. RF Power Amplifiers for Wireless Communications. Artech House, Inc., 1999.
+Katz A. Linearizing High Power Amplifiers. Available at: https:// www.lintech.com/PDF/hpa.pdf
+Андросов А. В., Куприянов П. В., Гутенко С. В., Лебедев К. В., Петров С. А., Кожин Е. С. Приемопередающий модуль цифрового радиолокатора 8-мм диапазона длин волн. Электронная техника. Серия 1: СВЧ-техника. 2015;(1):21–28.
+Гусев А. П., Куликов А. В., Куприянов П. В., Пожидаев В. Н. Автоматизированный комплекс для измерения параметров широкополосных приемных устройств СВЧ с расширенным динамическим диапазоном. Электронная техника. Серия 1: СВЧ-техника. 2009;(2):23–30.

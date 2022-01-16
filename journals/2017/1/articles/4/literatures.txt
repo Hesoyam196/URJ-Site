@@ -1,0 +1,9 @@
+Tokgoz C., Dural G. Closed-form Green’s functions for cylindrically stratified media // IEEE Transactions on Microwave theory and Techniques. 2000. Vol. 48. № 1. Pp. 40–49.
+Wait j. R. General solution for excitation by slotted aperture source in conducting cylinder with concentric layering // IEEE Transactions on Microwave theory and Techniques. 1993. Vol. 35. № 3. Pp. 321–325.
+Xiang Z., Lu Y. Electromagnetic dyadic Green’s function in cylindrically multi-layered media // IEEE Transactions on Microwave theory and Techniques. 1996. Vol. 44. № 4. Pp. 614–621.
+Erturk V. B., Rojas R. G. Efficient computation of surface fields excited on a dielectric-coated circular cylinder // IEEE Transactions on Antennas and Propagation. 2000. Vol. 48. № 10. Pp. 1507–1515.
+Thiel M., Dreher A. Dyadic Green’s function of multiplayer cylindrical closed and sector structures for waveguide, microstrip-antenna, and network analysis // IEEE Transactions on Microwave theory and Techniques. 2002. Vol. 50. № 11. Pp. 2576–2579.
+Dailis S., Shabunin S. Microstrip antennas on metallic cylinder covered with radially inhomogeneous magnetodielectric // Proc. of 9th Int. Wroclaw Symp. on Electrom. Compatib. 1988. Part 1. Pp. 271–277.
+Felsen L., Marcuvitz N. Radiation and Scattering of Waves. PrenticeHall, Inc. New jersey, 1973. Vol.1.
+Марков Г. Т., Чаплин А. Ф. Возбуждение электромагнитных волн. М., Л. : Энергия, 1967. 191 с.
+Green’s function formulation for multilayered cylindrical structures and its application to scattering problems / S. Knyazev, Y. Kostitsyn, B. Panchenko, S. Shabunin // Antennas and Propagation (EUCAP), Proceedings of the 5th European Conference on Year. 2011. Pp. 498–501.

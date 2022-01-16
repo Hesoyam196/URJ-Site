@@ -12,6 +12,10 @@
 					<?php require "authorization.php" ?>
 		<?php require "header.php" ?>
 		<main class="redactions">
+		<div class="ISSN">
+			<p>ISSN онлайн-версии: <span>2588-0462</span></p>
+			<p>ISSN печатной версии: <span>2588-0454</span></p>
+		</div>
 			<h1>Редакция</h1>
 			<div class="main-redactor">
 			<h4>Главный редактор</h4>

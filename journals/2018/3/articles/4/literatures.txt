@@ -1,0 +1,10 @@
+Манохин А. Е. Многоканальный адаптивный со слепым разделением помех в опорных каналах [Электронный ресурс]. URL: http://jre. cplire.ru/alt/oct14/4/text.html (дата обращения: 30.10.2018).
+Manokhin A. E. Multichannel adaptive with the blind separation of interference in the reference channels. Avaliable at: http://jre.cplire.ru/alt/oct14/4/text. html (accessed 30.10.2018). (In Russian).
+Манохин А. Е. Применение алгоритма слепого разделения помех на основе минимизации взаимной информации в опорных каналах многоканального адаптивного компенсатора [Электронный ресурс]. URL: http://jre.cplire.ru/win/mar16/6/text.html (дата обраще- ния: 30.10.2018). Manokhin A. E. Application of the algorithm of blind separation of interference based on minimization of mutual information in the reference channels of the multichannel adaptive compensator. Avaliable at: http://jre.cplire. ru/win/mar16/6/text.html (accessed 30.10.2018). (In Russian).
+Долгих Д. А. Алгоритмы и устройства обработки сигналов на ос- нове ортогонального частотного мультиплексирования. Томск : ТУСУР, 2008. 21 с. Dolgih D. A. Algorithms and signal processing devices based on orthogonal frequency multiplexing. Tomsk, TUSUR, 2008, 21 p. (In Russian).
+Cardoso J. F. Blind signal separation: statistical principles. Proceeding of the IEEE, 1998, vol. 10, no. 9, pp. 2009–2025.
+Цифровая обработка сигналов и изображений в радиофизических приложениях / под ред. В. Ф. Кравченко. М. : ФИЗМАТЛИТ, 2007. 544 с.
+Digital signal and image processing in radiophysical applications. Ed. by V. F. Kravchenko. — Moscow, FIZMATLIT, 2007, 544 p. (In Russian)
+Cichoki A., Amari S. Adaptive Blind Signal and Image Processing: Learning Algorithms and Applications, John Wiley & Sons, 2002.
+Белков К. С. Разработка и исследование эффективности алгоритмов слепого разделения/выделения сигнала на фоне различных помех / К. С. Белков. Екатеринбург, 2017. 103 с.
+Belkov K. S. Development and study of the effectiveness of algorithms of blindly separating/extracting a signal against the background of various interferences, Yekaterinburg, 2017, 103 p. (In Russian)

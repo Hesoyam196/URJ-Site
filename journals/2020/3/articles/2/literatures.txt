@@ -1,0 +1,14 @@
+Симин А., Холодняк Д., Вендик И. Многослойные интегральные схемы сверхвысоких частот на основе керамики с низкой температурой обжига. Компоненты и технологии. 2005;(5):190–196. Режим доступа: https://kit-e.ru/svch/mnogoslojnye-integralnye-shemy-sverhvysokihchastotsvch-na-osnove-keramiki-s-nizkoj-temperaturoj-obzhiga/
+Yang L., Zhu L., Choi W.-W., Tam K.-W. Analysis and design of wideband microstrip-to-microstrip equal ripple vertical transitions and their application to bandpass filters. IEEE Transactions on Microwave Theory and Techniques. 2017;65(8):2866–2877. DOI: 10.1109/TMTT.2017.2675418.
+Tao Z., Zhu J., Zuo T., Pan L., Yu Y. Broadband microstrip-to microstrip vertical transition design. IEEE Microwave and Wireless Components Letters. 2016;26(9):660–662.
+Abbosh A.M. Ultra wideband vertical microstrip-microstrip transition. IET Microwaves, Antennas & Propagation. 2007;1(5):968–972. DOI: 10.1049/iet-map:20070043.
+Дударев Н.В., Даровских С.Н. Принципы построения объемно-модульных диаграмма-образующих устройств. В: Дьяконов А.А. (ред.) Наука ЮУРГУ: материалы 70-й научной конференции, Челябинск, 25 апреля – 4 мая 2018 г. Челябинск: Южно-Уральский государственный университет; 2018. C. 625–630.
+Подстригаев А.С., Смоляков А.В., Слободян М.Г. Анализ плотности распределения типов РЛС в частотном диапазоне. Журнал радиоэлектроники. 2017;(7). Режим доступа: http://jre.cplire.ru/jre/jul17/12/text.pdf
+Pozar D.M. Microwave Engineering. 4th ed. Hoboken, NJ:J.
+Wiley; 2011.
+Zavadil J.L. Slot transmission line. Monterey, California: Naval Postgraduate School; 1971. Available at: https://archive.org/details/slottransmission00zava/mode/2up
+Himdi M., Daniel J. Analysis of printed linear slot antenna using lossy transmission line model. Electronics Letters. 1992;28(6):598–601. DOI: 10.1049/el:19920377.
+Ruyle J.E., Bernhard J.T. A wideband transmission line model for a slot antenna. IEEE Transactions on Antennas and Propagation. 2013;61(3):1407–1410.
+Клыгач Д.С., Вахитов М.Г., Дударев Н.В., Даровских С.Н., Дударев С.В. Моделирование объeмного полосково-щелевого перехода. Журнал радиоэлектроники. 2020;(7). DOI: https://doi.org/10.30898/1684-1719. 2020.7.11.
+Гвоздев В.И., Нефeдов Е.И. Объемные интегральные схемы СВЧ. М.: Наука. Главная редакция физико-математической литературы; 1985.
+Kostenetskiy P., Semenikhina P. SUSU Supercomputer Resources for Industry and fundamental Science. In: 2018 Global Smart Industry Conference (GloSIC). Chelyabinsk, 13–15 Nov. 2018. DOI: 10.1109/GloSIC.2018.8570068.

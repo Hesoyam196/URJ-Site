@@ -1,0 +1,15 @@
+Dobryakova L., Lemeszewski L., Ochin E. Design and Analysis of Spoofing Detection Algorithms for GNSS Signals. Scientific Journals of the Maritime University of Szczecin, 2014, no. 40 (112), p. 47–52.
+Dobryakova L., Lemeszewski L., Ochin E. Transport safety: the GNSS spoofing detecting using two navigators [Bezpieczenstwo w transporcie: wykrycie ataku GNSS spoofing za pomoca dwoch nawigatorow]. Logistyka, 2014, nr 3/2014, pp. 1328–1331.
+Dobryakova L., Lemeszewski L., Ochin E. The vulnerability of unmanned vehicles to terrorist attacks such as GNSS-spoofing. Scientific Jour? nals of the Maritime University of Szczecin, 2016, no. 46 (118), pp. 181–188.
+Dobryakova L., Lemeszewski L., Ochin E. Protecting vehicles vulnerable to terrorist attacks, such as GNSS jamming, by electromagnetic interference shielding of antenna. Scientific Journals of the Maritime Universi? ty of Szczecin, 2017, no. 50 (122), pp. 77–83.
+GPS World (2015) Spoofing, Detection, and Navigation Vulnerability. Available at: https://www.youtube.com/watch?v=qlX–MsYZvoM (accessed 13.04.2018).
+Humphreys T. E., Ledvina B. M., Psiaki M. L., O’Hanlon B. W., Kintner jr. P. M. Assessing the Spoofng Threat: Development of a Portable GPS Civilian Spoofer. Preprint of the 2008 ION GNSS Conference Savanna. GA, 2008, September 16–19.
+jafarnia-jahromi A., Broumandan A., Nielsen j., Lacha- pelle G. GPS Vulnerability to Spoofing Threats and a Review of Antispoofing Techniques. Hindawi Publishing Corporation International Journal of Nav? igation and Observation, 2012, Article ID127072. doi: 10.1155/2012/127072
+januszewski j. Systemy satelitarne GPS, Galileo i inne. PWN. 2010.
+jones M. The civilian battlefield. Protecting GNSS receivers from interference and jamming. Inside GNSS, 2011, vol. Mar./Apr., pp. 40–49.
+Lucas-Sabola V., Seco-Granados G., Lopez-Salcedo j. A., GarciaMolina j. A., Crisci M. Cloud GNSS receivers: New advanced applications made possible. International Conference on Localization and GNSS (ICL? GNSS). Barcelona, 2016, pp. 1–6.
+Ochin E., Lemieszewski L., Lusznikov E., Dobryakova L. The study of the spoofer’s some properties with help of GNSS signal repeater. Scientif? ic Journals Maritime University of Szczecin, 2013, 36 (108) z. 2, pp. 159–165.
+Psiaki M. L., O’Hanlon B. W., Bhatti j. A., Shepard D. P., Humphreys T. E. Civilian GPS Spoofing Detection based on Dual-Receiver Correlation of Military Signals. Proceedings of ION GNSS. Portland, Oregon, 2011.
+Raia M. The Benefits of Choosing a Cloud-Based GPS Tracking System. CloudExpo Journal, 2011, August 18. Available at: http://cloudcomputing.sys-con.com/node/1950571 (accessed 13.04.2018)
+Seco-Granados G., Lopez-Salcedo j. A., jimenez-Banos D., LopezRisueno G. Challenges in Indoor Global Navigation Satellite Systems. IEEE Signal Proc. Mag., 2012, vol. 29, no. 2, pp. 108–131.
+Specht C. System GPS. Biblioteka Nawigacji, 2007, nr 1. Wydawnictwo Bernardinum. Pelplin.

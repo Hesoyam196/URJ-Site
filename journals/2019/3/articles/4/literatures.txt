@@ -1,0 +1,41 @@
+Takayama Y. Doppler signal detection with negative resistance diode oscillators. IEEE Transactions on Microwave Theory Technique. 1973;21(2):89–94. DOI: 10.1109/TMTT.1973.1127929
+Nagano S., Akaiwa Y. Behavior of Gunn diode oscillator with a moving reflector as a self-excited mixer and a load variation detector. IEEE Transactions on Microwave Theory and Techniques. 1971;19(12):906–910. DOI: 10.1109/TMTT.1971.6373339
+Gupta M-S., Lomax R. J., Haddad G. I. Noise consideration in self-mixing IMPATT-diode oscillators for short-range Doppler radar applications. IEEE Transactions on Microwave Theory and Techniques. 1974;22(1):37–43. DOI: 10.1109/TMTT.1974.1128158
+Nygren T., Sjolund A. Sensitivity of Doppler radar with self- detecting diode oscillators. IEEE Transactions on Microwave Theory and Techniques. 1974;22(5):494–498. DOI: 10.1109/TMTT.1974.1128268
+Усанов Д. A., Скрипаль Ал. В., Скрипаль Ан. В. Физика полупроводниковых радиочастотных и оптических автодинов. Саратов: Изд-во СГУ; 2003.
+Jefford, P. А., Howes, M. S. Modulation schemes in low-cost microwave field sensor. IEEE Transaction of Microwave Theory and Technique. 1985;31(8):613–624. DOI: 10.1109/TMTT.1983.1131559.
+Komarov I. V., Smolskiy S. M. Fundamentals of Short-Range FM Radar. Norwood: Artech House; 2003.
+Usanov D. A., Skripal Al. V., Skripal An. V., Postelga A. E. A microwave autodyne meter of vibration parameters.
+Instruments and Experimental Techniques. 2004;47(5):689–693. DOI: 10.1023/B:INET.0 000043882.16801.3a
+Данилин А. И., Воторопин С. Д., Чернявский А. Ж. Использование автодинных приемопередающих модулей на диодах Ганна для определения деформаций лопаток турбомашины. 11-я Международная Крымская конференция «СВЧ-техника и телекоммуникационные технологии» (КрыМиКо 2001), Севастополь, 10–14 сент. 2001 г. Севастополь: Вебер; 2001. С. 654–656. DOI: 10.1109/CRMICO.2001.961705
+Kotani M., Mitsui S., Shirahata K. Load-variation detector characteristics of a detector-diode loaded Gunn oscillator. Electronics and Communications in Japan. 1975;58-B(5):60–66.
+Соловьев Ю. Л., Рудаков А. В. Малогабаритное устройство миллиметрового диапазона для систем ближней радиолокации. 18-я Между- народная Крымская конференция «СВЧ-техника и телекоммуникаци- онные технологии» (КрыМиКо 2008), Севастополь, 8–12 сент. 2008 г. Севастополь: Вебер; 2008. С. 113. DOI: 10.1109/CRMICO.2008.4676311
+Votoropin S. D. Autodyne sensors of the EHF range on Gunn diodes. In: 38th European Microwave Conference. 2008. P. 1330–1333. DOI: 10.1109/EUMC.2008.4751709
+Page C. H., Astin A. V. Survey of proximity fuze development. American Journal of Physics. 1947;15(2):95–110. DOI: 10.1119/1.1990930
+Armstrong B. M., Brown R., Rix F., Stewart J. A. C. Use of microstrip impedance-measurement technique in the design of a BARITT diplex Doppler sensor. IEEE Transactions on Microwave Theory and Techniques. 1980;28(12):1437–1442. DOI: 10.1109/TMTT.1980.1130263
+Lazarus M. J., Pantoja F. P., Somekh M., Novak S., Margison S. Nеw direction-of-motion Doppler detector. Electronics Letters. 1980;16(25):953–954. DOI: 10.1049/el:19800679
+Yasuda A., Kuwashima S., Kanai Y. A shipborne-type wave-height meter for oceangoing vessels, using microwave Doppler radar. IEEE Journal of Oceanic Engineering. 1985;10(2):138–143. DOI: 10.1109/ JOE.1985.1145094
+Efanov A. A., Diskus C. G., Stelzer A., Thim H. W., Lubke K., Springer A. L. Development of a low-cost 35 GHz radar sensor. Annals of Telecommunications. 1997;52(3):219–223. DOI: 10.1007/BF02996047.
+Kim S., Nguyen C. A Displacement measurement technique using millimeter-wave interferometry. IEEE Transaction on Microwave Theory and Techniques. 2003;51(6):1724–1728. DOI: 10.1109/ TMTT.2003.81.812575
+Alidoost S. A., Sadeghzade R., Fatemi R. Autodyne system with a single antenna. In: 11th Intern. Radar Symposium (IRS-2010). Lithuania, Vilnius. 2010. Vol. 2. P. 406–409.
+Varavin A. V., Vasiliev A. S., Ermak G. P., Popov I. V. Autodyne Gunn-diode transceiver with internal signal detection for short-range linear FM radar sensor. Telecommunication and Radio Engineering. 2010;69(5):451–458. DOI: 10.1615/TelecomRadEng.v69.i5.80
+Usanov D. A., Postelga A. E. Reconstruction of complicated movement of part of the human body using radio wave autodyne signal. Biomedical Engineering. 2011;45(1):6–8. DOI: 10.1007/s10527-011-9198-9
+Nguyen C., Kim S. Theory, Analysis and Design of RF Interferometric Sensors. Springer Science+Business Media; 2012. DOI: 10.1007/978-1-4614-2023-1
+Mirsaitov F. N., Safonova E. V., Boloznev V. V. Microwave autodyne vibrosensor in aeroengine diagnostics. In: European Frequency and Time Forum (EFTF). 2014. P. 140–143. DOI: 10.1109/EFTF.2014.7331447.
+Kim S; Kim B.-H., Yook J.-G., Yun G.-H. Proximity vital sign sensor using self-oscillating mixer. In: URSI Asia-Pacific Radio Science Conference (URSI AP-RASC). 2016. P. 1446–1448. DOI: 10.1109/ URSIAP-RASC.2016.7601402
+Boric-Lubecke O., Droitcour A. D., Lubecke V. M., Park B.-K., Singh A. (eds.) Doppler Radar Physiological Sensing. NewYork: John Wiley & Sons; 2016. DOI:10.1002/9781119078418
+Ветрова Ю. В., Дорошенко А. А., Постельга А. Э., Усанов Д. А. Дистанционный контроль движения поверхности объекта с использованием двухканального СВЧ-автодинного генератора. Радиотехника и электроника. 2019;64(4):387–395. DOI: 10.1134/S0033849419040119
+Носков В. Я., Игнатков К. А., Смольский С. М. Зависимость автодинных характеристик от внутренних параметров СВЧ-генераторов. Радиотехника. 2012;(6):24–46.
+Носков В. Я., Игнатков К. А. Влияние внутренних параметров автодинных СВЧ-генераторов на их динамические характеристики. Электронная техника. Серия 1. СВЧ-техника. 2012;(3):23–40.
+Noskov V. Ya., Ignatkov K. A. Dynamic autodyne and modulation characteristics of microwave oscillators. Telecommunication and Radio Engineering. 2013;72(10):919–934. DOI:10.1615/TelecomRadEng.v72. i10.70
+Гершензон Е. М., Калыгина В. М., Левит Б. И., Туманов Б. Н. Резонанс релаксационных колебаний в автодинных генераторах. Из- вестия вузов. Радиофизика. 1981;24(8):1028–1034.
+Braun R. M. Self-mixing oscillators at Q-band using Gunn diode solid state sources. University of Cape Town; 1982. Available at: http:// hdl.handle.net/11427/15665
+Pantoja F. R., Calazans E. T. Theoretical and experimental studies of gain compression of millimeter-wave self-oscillating mixers. IEEE Transactions on Microwave Theory and Techniques. 1985;MTT-33(3):181– 186. DOI: 10.1109/TMTT.1985.1132979
+Flint R. A., Fan L., Navarro J. A., Chang K. Low cost and compact active integrated antenna transceiver for system applications. IEEE Transactions on Microwave Theory and Techniques. 1996;44(10):1642– 1649. DOI: 10.1109/22.538955
+Боголюбов Н. Н., Митропольский Ю. А. Асимптотические методы в теории нелинейных колебаний. М.: Наука; 1974.
+Kurokawa K. Injection locking of microwave solid-state oscillators. Proceedings of the IEEE. 1973;61(10):13861410. DOI: 10.1109/ PROC.1973.9293
+Воторопин С. Д, Закарлюк Н. М., Носков В. Я., Смольский С. М. О принципиальной невозможности самосинхронизации автодина излучением, отраженным от движущегося объекта. Известия вузов. Фи- зика. 2007;50(9):53–59.
+Минаев М. И. Низкочастотный спектр автодинного преобразователя частоты. Электронная техника. Сер. Электроника СВЧ. 1989;(7):12–14.
+Минаев М. И., Ценципер Б. Л. Исследование автодинного смесителя частоты на диоде Ганна с большим динамическим диапазоном изменения мощности внешнего сигнала. Электронная техника. Сер. Электроника СВЧ. 1987;(4):30–33.
+Носков В. Я. Динамические особенности автодинного отклика СВЧ-генератора. Известия вузов. Радиоэлектроника. 1992;35(9)9–16.
+Иванов В. Э., Гусев А. В., Игнатков К. А., Кудинов С. И., Ма- лыгин И. В., Носков В. Я., Плохих О. В., Рысев В. В., Черных О. А. Современное состояние и перспективы развития систем радиозонди- рования атмосферы в России. Успехи современной радиоэлектроники. 2015;(9):3–49.

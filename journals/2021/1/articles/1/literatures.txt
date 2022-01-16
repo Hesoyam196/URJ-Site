@@ -1,0 +1,7 @@
+Kurs A., Karalis A., Moffatt R., Joannopoulos J. D., Fisher P., Soljacic M. Wireless Power Transfer via Strongly Coupled Magnetic Resonances. Science, 2007;317(5834):83–866. DOI: 10.1126/science.1143254.
+Karalis A., Joannopoulos J. D., Soljacic M. Efficient wireless nonradiative mid-range energy transfer. Annals of Physics, 2008;323(1):34–48. DOI: 10.1016/j.aop.2007.04.017.
+Hadley F. Goodbye wires! MIT team experimentally demonstrates wireless power transfer, potentially useful for powering laptops, cell phones without cords. June 7, 2007. Available at: http://news.mit.edu/2007/wireless-0607
+Pchelnikov Yu. N. Features of slow waves and potential for their nontraditional application. Journal of Communications Technology and Electronics, 2003;48(4):494–507.
+Pchelnikov Yu. N., Yelizarov A. A., Pchelnikov A. G. Wireless charging mechanism for outdoor appliance. In: IEEE Proc. 23rd International Crimean Conference “Microwave & Telecommunication Technology”, Sevastopol, Crimea, Ukraine, 9–13 September 2013, pp. 1058–1059.
+Shirokov I. B. Method for wireless transmission of high-frequency electrical energy. Patent for invention No. 2704602 C1 Russia, IPC H02J 50/00, CPC H02J 50/20, H02J 50/90, H01Q 7/08, Publ. 30.10.2019, Bul. No. 31.
+Volman V. I., Pimenov Yu. V. Technical electrodynamics. Moscow: Communication, 1971. 487 p.

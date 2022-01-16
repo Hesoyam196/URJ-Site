@@ -2,18 +2,20 @@ var countOfFields = 0; // Текущее число полей
 var curFieldNameId = 0; // Уникальное значение для атрибута name
 var maxFieldLimit = 100; // Максимальное число возможных полей
 function deleteField(a) {
+countOfFields--;
+curFieldNameId--;
 // Получаем доступ к ДИВу, содержащему поле
 var contDiv = a.parentNode;
 // Удаляем этот ДИВ из DOM-дерева
 contDiv.parentNode.removeChild(contDiv);
 // Уменьшаем значение текущего числа полей
-countOfFields--;
 // Возвращаем false, чтобы не было перехода по сслыке
+document.getElementById('articles_count').value = countOfFields;
 return false;
 }
 function addField() {
 if (countOfFields >= maxFieldLimit) {
-alert("Число полей достигло своего максимума = " + maxFieldLimit);
+alert("Слишком много статей!");
 return false;
 }
 // Увеличиваем текущее значение числа полей
@@ -24,17 +26,17 @@ curFieldNameId++;
 var div = document.createElement("div");
 // Добавляем HTML-контент с пом. свойства innerHTML
 div.classList.add("article");
-div.innerHTML = "<label>PDF Файл:<br><input type=\"file\" name=\"article_file"+String(curFieldNameId)+"\" id=\"article_file"+String(curFieldNameId)+"\"></label>"+
-"<label>Название:<br><textarea name=\"name"+String(curFieldNameId)+"\" id=\"name"+String(curFieldNameId)+"\"></textarea></label>"+
-"<label>Авторы:<br><textarea name=\"autors"+String(curFieldNameId)+"\" id=\"autors"+String(curFieldNameId)+"\"></textarea></label>"+
-"<label>Аннотация:<br><textarea name=\"annotation"+String(curFieldNameId)+"\" id=\"annotation"+String(curFieldNameId)+"\"></textarea></label>"+
-"<label>Цитирование:<br><textarea name=\"citation"+String(curFieldNameId)+"\" id=\"citation"+String(curFieldNameId)+"\"></textarea></label>"+
-"<label>Ключевые слова:<br><textarea name=\"keywords"+String(curFieldNameId)+"\" id=\"keywords"+String(curFieldNameId)+"\"></textarea></label>"+
-"<label>Литература:<br><textarea name=\"literatures"+String(curFieldNameId)+"\" id=\"literatures"+String(curFieldNameId)+"\"></textarea></label>"+
+div.innerHTML = "<h3>Статья "+String(curFieldNameId)+"</h3><label>PDF Файл: <span>*</span><br><input required type=\"file\" name=\"article_file"+String(curFieldNameId)+"\" id=\"article_file"+String(curFieldNameId)+"\"></label>"+
+"<label>Название:<br><textarea required placeholder=\"Введите название статьи...\" name=\"name"+String(curFieldNameId)+"\" id=\"name"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Авторы:<br><textarea placeholder=\"Введите авторов...\" name=\"autors"+String(curFieldNameId)+"\" id=\"autors"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Аннотация:<br><textarea placeholder=\"Введите аннотацию...\" name=\"annotation"+String(curFieldNameId)+"\" id=\"annotation"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Цитирование:<br><textarea placeholder=\"Введите цитирование...\" name=\"citation"+String(curFieldNameId)+"\" id=\"citation"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Ключевые слова:<br><textarea placeholder=\"Введите ключевые слова. Например: электричество, радио, электрон...\" name=\"keywords"+String(curFieldNameId)+"\" id=\"keywords"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Литература:<br><textarea placeholder=\"Введите литературу...\" name=\"literatures"+String(curFieldNameId)+"\" id=\"literatures"+String(curFieldNameId)+"\"></textarea></label>"+
 "<a class=\"article-button\" onclick=\"return deleteField(this)\" href=\"#\">Удалить статью</a>";
 // Добавляем новый узел в конец списка полей
 document.getElementById("parentId").appendChild(div);
-document.getElementById('articles_count').value = curFieldNameId;
+document.getElementById('articles_count').value = countOfFields;
 // Возвращаем false, чтобы не было перехода по сслыке
 return false;
 }

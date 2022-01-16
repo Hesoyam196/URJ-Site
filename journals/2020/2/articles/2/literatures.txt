@@ -1,0 +1,24 @@
+Official U.S. government information about the Global Positioning System (GPS) and related topics. Available at: www.GPS.gov (Accessed:17 July 2020)
+Yang Y., Mao Y., Sun B. Basic performance and future developments of BeiDou global navigation satellite system. Satellite Navigation. 2020;1:1. DOI: 10.1186/s43020-019-0006-0.
+BeiDou’s road to global service. GPS World. 6 December 2016. Available at: https://www.gpsworld.com/directions-2017-beidous-roadto-global-service/ (Accessed: 17 July 2020)
+European Space Agency’s Galileo website. Available at: https://www.esa.int/Applications/Navigation/Galileo (Accessed: 17 July 2020)
+Indian Regional Navigation Satellite System/NavIC. Available at: https://www.isro.gov.in (Accessed: 17 July 2020)
+Quasi-Zenith Satellite System. Available at: https://qzss.go.jp (Accessed: 17 July 2020)
+Datta A. Multi-constellation GNSS receivers becoming a standard. Available at: https://www.geospatialworld.net/blogs/multi-constellationgnss-receivers-norm/ (Accessed: 17 July 2020)
+Nacini F. JANUS creates a new era for digital underwater communications. Available at: https://robohub.org/janus-creates-a-newera-for-digital-underwater-communications/ (Accessed: 17 July 2020)
+Caparra G., Ceccato S., Laurenti N., Cramer J. Feasibility and Limitations of Self-Spoofing Attacks on GNSS Signals with Message Authentication. In: Proceedings of the 30th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2017), Portland, Oregon, September 2017, pp. 3968–3984. DOI: 10.33012/2017.15402.
+Stutters L., Liu H., Tiltman C., Brown D. Navigation technologies for autonomous underwater vehicles. In: IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews). 2008;38(4):581–589. 10.1109/TSMCC.2008.919147.
+Miller P., Farrell J., Zhao Y., Djapic V. Autonomous underwater vehicle navigation. IEEE Journal of Oceanic Engineering. 2010;35(3):663–678. DOI: 10.1109/JOE.2010.2052691.
+Webster S. E., Eustice R. M., Singh H., Whitcomb L. L. Advances in single-beacon one-way-travel-time acoustic navigation for underwater vehicles. The International Journal of Robotics Research. 2012;31(8):935–950. DOI: 10.1177/0278364912446166.
+Dobryakova L., Ochin E. On the application of GNSS signal repeater as a spoofer (GNSS signal repeater = Meaconing). Scientific Journals Maritime University of Szczecin. 2014;(40):53–57. Available at: http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-27082d5c-1bbf-405f-b164-96d0e7e91dd5/c/Dobryakova_Ochin_112-8.pdf (Accessed: 18 July 2020)
+Dobryakova L., Lemieszewski L., Ochin E. The vulnerability of unmanned vehicles to terrorist attacks such as Global Navigation Satellite System Spoofing. Scientific Journals of the Maritime University of Szczecin. 2016;(46):181–188. DOI: 10.17402/135.
+Dobryakova L., Lemieszewski L., Ochin E. Protecting vehicles vulnerable to terrorist attacks, such as GNSS Jamming, by electromagnetic interference shielding of antenna. Scientific Journals Maritime University of Szczecin. 2017;(50). DOI: DOI: 10.17402/219.
+Ochin E. Detection of Spoofing using Differential GNSS. Scientific Journals Maritime University of Szczecin. 2017;(50). DOI: 10.17402/217.
+Ochin E. GPS/GNSS spoofing and the real-time single-antennabased spoofing detection system. Scientific Journals Maritime University of Szczecin. 2017;(52):145–153. DOI: 10.17402/256.
+Ochin E. GNSS and DGNSS Spoofing Detection. Ural Radio Engineering Journal. 2017;1(1):55–79. DOI: 10.15826/urej.2017.1.1.003.
+Dobryakova L., Lemieszewski L., Ochin E. Protecting of vehicles with help of anti-jamming and anti-spoofing by shielding of GNSS antenna. In: REIT 2017 Autumn, Submission 31. Available at: http://reit-rtf.ru/2017b.html (Accessed: 18 July 2020)
+Dobryakova L. A., Lemieszewski L. S., Ochin E. F. Global Navigation Satellite Systems attacks and a cloud-based spoofing detection for unmanned ships. Ural Radio Engineering Journal. 2017;2(2):40–56. DOI: 10.15826/urej.2018.2.2.003.
+L Dobryakova., Lemieszewski L., Ochin E. GNSS Spoofing Detection Using Static or Rotating Single-Antenna of a Static or Moving Victim. IEEE Access. 2018;6:79074–79081. DOI: 10.1109/ACCESS.2018.2879718.
+Dobryakova L., Lemieszewski L., Ochin E. Cloud-based GNSS navigation spoofing detection. Scientific Journals Maritime University of Szczecin. 2019;(57):29–37. DOI: 10.17402/323.
+Ochin E. Spoofing detection for underwater acoustic GNSS-like positioning systems. Scientific Journals Maritime University of Szczecin. 2019;(57):38–46. DOI: 10.17402/324.
+Abramowski T., Bilewski M., Dobryakova L., Ochin E., Uriasz J., Zalewski P. Safety of GNSS-Like Underwater Positioning Systems. Preprints. 2019:2019090052. DOI: 10.20944/preprints201909.0052.v1.

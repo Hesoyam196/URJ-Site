@@ -31,6 +31,7 @@
 		echo "<div class=\"authorization\">
 			<button onclick=\"show('block')\">
 			<img class=\"img-auth\" src=\"/img/auth.png\">
+			<p>Авторизация</p>
 		</button>
 		</div>";
 	}

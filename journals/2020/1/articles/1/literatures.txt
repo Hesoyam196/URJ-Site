@@ -1,0 +1,8 @@
+Chen S., Cheng Y.F. Biosensors for bacterial detection. International Journal of Biosensors & Bioelectronics. 2017;2(6):197–199. DOI: 10.15406/ ijbsbe.2017.02.00048
+O’Mara P., Farrell A., Bones J., Twomey K. Staying alive! Sensors used for monitoring cell health in bioreactors. Talanta. 2018;176:130– 139. DOI: 10.1016/j.talanta.2017.07.088
+Jyoung J.Y., Hong S., Lee W., J. Choi W. Immunosensor for the detection of Vibrio cholerae O1 using surface plasmon resonance. Biosens. Bioelectron. 2006;21(12):2315–2319. DOI: 10.1016/j. bios.2005.10.015
+Turner A.P.F., Karube I., Wilson G.S. Biosensors: fundamentals and applications. Oxford University Press; 1987.
+Guliy Î.I., Zaitsev B.D., Borodina I.A., Shikhabudinov À.Ì., Teplykh A.A. Analysis of interaction of bacterial cells and bacteriophages in conducting suspensions with an acoustic sensor. Applied Biochemistry and Microbiology. 2017;53(4):464–469. DOI: 10.1134/ S0003683817040068
+Guliy Î.I., Zaitsev B.D., Borodina I.A., Teplykh A.A., Ignatov O.V. An acoustic method for the analysis of bacterial cells. Biophysics. 2016;61(4):629–639. DOI: 10.1134/S0006350916040138
+Borodina I.A., Zaitsev B.D., Teplykh A.A. The influence of viscous and conducting liquid on the characteristics of the slot acoustic wave. Ultrasonics. 2018;82:39–43. DOI: 10.1016/j.ultras.2017.07.011
+Guliy Î.I., Zaitsev B.D., Borodina I.A., Shikhabudinov À.Ì., Teplykh A.A., Staroverov S.A., Fomin A.S. The biological acoustic sensor to record the interactions of the microbial cells with the phage antibodies in conducting suspensions. Talanta. 2018;178:569–576. DOI: 10.1016/j. talanta.2017.09.076

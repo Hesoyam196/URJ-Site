@@ -1,0 +1,10 @@
+Вольман В. И. Справочник по расчету и конструированию СВЧ полосковых устройств. М.: Радио и связь; 1982.
+Знаменский А. Е., Попов Е. С. Перестраиваемые электрические фильтры. М.: Связь; 1979.
+Haeng-Seon Lee, Sang-Won Yun. Microwave Planar Varactor Tuned Bandpass Filters: Historical Overview. In: Dept. of Electronics Engineering Sogang University, Seoul, Korea, April 2003. Р. 559–562.
+Huang F., Mansour R. R. Tunable Compact Dielectric Resonator Filters. In: Proceedings of the 42st European Microwave Conference. October 2009. Р. 559–562.
+Tsai C. S., Qiu G. Wideband microwave filters using ferromagnetic resonance tuning in flip-chip YIG-GaAs layer structures. IEEE Transactions on Magnetics.
+;45(2):656–660. DOI: 10.1109/TMAG.2008.2010466
+Chun Y.-H., Hong J. S., Bao P., Jackson T. J. BST-Varactor Tunable Dual-Mode Filter Using Variable ZC Transmission Line. IEEE Microwave and Wireless Components Letters. 2008;18(3):167–169. DOI: 10.1109/ LMWC.2008.916778
+Dussopt L., Rebeiz G. M. Intermodulation distortion and power handling in RF MEMS switches, varators, and tunable filters. IEEE Transactions on Microwave Theory and Techniques. 2003;51(4):1247– 1256. DOI: 10.1109/TMTT.2003.809650
+Ni, Jia. Development of Tunable and Miniature Microwave Filters for Modern Wireless Communications. Heriot-Watt University. Dissertation for the degree of PhD. Edinburgh, Scotland; 2014. Available at: https:// www.ros.hw.ac.uk/handle/10399/2843
+David M. Pozar Microwave Engineering. 4th ed. John Wiley & Sons, Inc.; 2012.

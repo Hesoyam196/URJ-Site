@@ -1,0 +1,7 @@
+Nikias C. L., Raghuveer M. R. Bispectrum estimation: A digital signal processing framework. Proc. IEEE, 1987, vol. 75, pp. 869–91.
+Bartelt H., Lohman A. W., Wirnitzer B. Phase and amplitude recov- ery from bispectra. Applied Optics, 1984, vol. 23.
+Zelensky A. A., Kravchenko V. F., Pavlikov V. V., Totsky A. V. Bispectrum analysis in digital signal processing and applications. Fizicheskie osnovy priborostroeniya, 2013, 2 (3), pp. 4–39.
+Манохин А. Е., Зародов А. А. О разработке оптимального фильтра выделения полезного сигнала в биспектральной области по критерию минимумаабсолютной ошибки третьей степени // Журнал радиоэлектроники [Электронный ресурс]. 2016. No 10 (12). URL: http://jre. cplire.ru/jre/oct16/1/text.pdf (дата обращения: 30.10.2018).
+Manokhin А. E., Zarodov А. А. O razrabotke optimal’nogo fil’tra vy- deleniya poleznogo signala v bispektral’noj oblasti po kriteriyu minimu- maabsolyutnoj oshibki tret’ej stepeni [The designing an optimal filter of a useful signal in a bispectral domain by the criteria of the least mean abso- lute third error]. ZHurnal radioehlektroniki [Journal of Radio Electronics], 2016, no. 10(12). Avaliable at: http://jre.cplire.ru/jre/oct16/1/text.pdf (accessed 30.10.18). (In Russian)
+Widrow B., Stearns S. P. Adaptive Signal Processing of Englewood Cliffs. Prentice-Hall, Inc., 1985.
+Cowan C. F. N., Grant P. M. Adaptive Filters. Prentice-Hall, Engle- wood Cliffs, NJ, 1985.

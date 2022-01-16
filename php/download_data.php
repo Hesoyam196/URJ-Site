@@ -31,29 +31,41 @@ for ($i = 1; $i <= (int)($_POST['articles_count']); $i++) {
   else {
   }
 
-  $file_name = fopen($current_article_path . "/" . "name.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['name' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['name' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "name.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['name' . (string)($i)]);
+    fclose($file_name);
+  }
 
-  $file_name = fopen($current_article_path . "/" . "autors.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['autors' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['autors' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "autors.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['autors' . (string)($i)]);
+    fclose($file_name);
+  }
 
-  $file_name = fopen($current_article_path . "/" . "annotation.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['annotation' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['annotation' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "annotation.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['annotation' . (string)($i)]);
+    fclose($file_name);
+  }
 
-  $file_name = fopen($current_article_path . "/" . "citation.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['citation' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['citation' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "citation.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['citation' . (string)($i)]);
+    fclose($file_name);
+  }
 
-  $file_name = fopen($current_article_path . "/" . "keywords.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['keywords' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['keywords' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "keywords.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['keywords' . (string)($i)]);
+    fclose($file_name);
+  }
 
-  $file_name = fopen($current_article_path . "/" . "literatures.txt", 'w') or die("не удалось создать файл");
-  fwrite($file_name, $_POST['literatures' . (string)($i)]);
-  fclose($file_name);
+  if ($_POST['literatures' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "literatures.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['literatures' . (string)($i)]);
+    fclose($file_name);
+  }
 }
 header("Location: /../admin.php");
 exit();

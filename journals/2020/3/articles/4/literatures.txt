@@ -1,0 +1,16 @@
+Казаринов Ю. М. Радиотехнические системы. М.: Академия; 2008.
+Fishler E., Haimovich A., Blum R., Cimini L., Chizhik D., Valenzuela R. MIMO radar: An idea whose time has come. In: Proceedings of the 2004 IEEE Radar Conference (IEEE Cat. No.04CH37509), Philadelphia, PA, 29–29 April 2004, pp. 71–78. DOI: 10.1109/NRC.2004.1316398.
+Fishler E., Haimovich A., Blum R.S., Cimini L.J., Chizhik D., Valenzuela R.A. Spatial Diversity in Radars-Models and Detection Performance. IEEE Transactions on Signal Processing. 2006;54(3):823 – 838. DOI: 10.1109/TSP.2005.862813.
+Rabideau D.J., Parker P. Ubiquitous MIMO multifunction digital array radar. In: The Thirty-Seventh Asilomar Conference on Signals, Systems & Computers, Pacific Grove, CA, 9–12 November 2003. Vol. 1, pp. 1057–1064. DOI: 10.1109/ACSSC.2003.1292087.
+Bergin J., Guerci J.R. MIMO Radar. Theory and Application. Boston: Artech House; 2018.
+Li J., Stoica P. MIMO radar signal processing. New Jersey: John Wiley & Sons; 2008.
+Черняк В.С. Многопозиционная радиолокация. М.: Радио и связь; 1993.
+Черняк В.С. О новых и старых идеях в радиолокации: MIMO РЛС. Успехи современной радиоэлектроники. 2011;(2):5–20.
+Черняк В.С. Многопозиционные радиолокационные системы на основе MIMO РЛС. Успехи современной радиоэлектроники. 2012;(8):29–46.
+Черняк В.С. Обнаружение сигналов в MIMO РЛС. Успехи современной радиоэлектроники. 2014;(7):35–48. Режим доступа: https://www.researchgate.net/publication/267613025
+Зайцев Н. А., Макарецкий Е.А. Анализ направленных свойств антенных решеток MIMO РЛС. Известия Тульского государственного университета. Технические науки. 2016;(12-2):111–121.
+Оргиш П.И., Горшков С. А. Анализ характеристик MIMO РЛС. Прикладная радиоэлектроника. 2013;12(3):387–399. Режим доступа: http://nbuv.gov.ua/UJRN/Prre_2013_12_3_4
+Плохов С.Н., Шабунин С.Н. Влияние взаимодействия элементов антенно-фидерного тракта радиолокатора на шумовые характеристики канала приема. Вестник УрФО. Безопасность в информационной сфере. 2020 (в печати).
+Оргиш П.И., Горшков С. А. Алгоритм синтеза геометрической структуры антенной решетки MIMO РЛС. Военная академия Республики Беларусь. Доклады БГУИР. 2012;(8):93–99. Режим доступа: https://doklady.bsuir.by/jour/article/view/130#
+Li J., Stoica P. MIMO Radar Spacetime Adaptive Processing and Signal Design. In: Li J., Stoica P. MIMO radar signal processing. Wiley-IEEE Press; 2009, pp. 235–281. DOI: 10.1002/9780470391488.ch6.
+Patole S. M., Torlak M., Wang D., Ali M. Automotive radars: A review of signal processing techniques, IEEE Signal Processing Magazine. 2017;34(2):22–35. DOI: 10.1109/MSP.2016.2628914.

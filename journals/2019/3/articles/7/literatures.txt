@@ -1,0 +1,6 @@
+Разоренов Г.Н., Бахрамов Э.А., Титов Ю.Ф. Системы управле- ния летательными аппаратами (баллистическими ракетами и их головными частями). М.: Машиностроение; 2003.
+Власов С.А., Мамон П.А. Теория полета космических аппаратов. СПб.: Военно-космическая академия им. А.Ф. Можайского; 2003.
+Luo, Y., Zhang Q., Qiu C., Liang X., Li K. Micro-Doppler effect analysis and feature extraction in ISAR imaging with stepped-frequency chirp signals. IEEE Transactions on Geoscience and Remote Sensing. 2010;48(4):2087–2098,. DOI: 10.1109/TGRS.2009.2034367
+Xiaoyi P., Wang W., Liu J., Feng D., Liu Y., Wang G. Features extraction of rotationally symmetric ballistic targets based on micro-doppler. Progress In Electromagnetics Research, 2013;137:727–740. DOI: 10.2528/PIER13020110
+Ballard D. H. Generalizing the Hough transform to detect arbitrary shapes. Pattern Recognition. 1981;13(2):111–122. DOI: 10.1016/0031- 3203(81)90009-1
+Ma L., Liu J., Wang T., Li Y., Wang X. Micro-Doppler characteristics of sliding-type scattering center on rotationally symmetric target. Scince China Information sciences. 2011;54(9)1957–1967. DOI: 10.1007/s11432- 011-4254-3

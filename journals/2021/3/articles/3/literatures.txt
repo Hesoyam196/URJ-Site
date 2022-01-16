@@ -1,0 +1,26 @@
+Ўувалов –. ». ћатематическое моделирование фазового градиента дл€ задачи развертки фазы в космической радиолокационной топографической интерферометрии: дис. ... канд. физ.-мат. наук: 05.13.18. ћ.; 2011. –ежим доступа: https://www.dissercat.com/content/matematicheskoe-modelirovanie-fazovogo-gradienta-dlyazadachirazvertki-fazy-v-kosmicheskoi
+Bamler R., Hartl P. Synthetic aperture radar interferometry. Inverse Problems. 1998;14(4):r1Цr54. DOI: 10.1088/0266-5611/14/4/001
+Costantini M. A novel phase unwrapping method based on network .1998;36(3):813Ц821. DOI: 10.1109/36.673674
+Joughin I. R., Li F. K., Madsen S. N., Rodrigues E., Goldstein R. M. Synthetic Aperture Radar Interferometry. Proceedings of the IEEE. 2000;88(3):333Ц382. DOI: 10.1109/5.838084
+Hanssen R. F. Radar interferometry. Data interpretation and error analysis. Dordrecht: Kluwer academic publishers; 2002. DOI: 10.1007/0-306-47633-9
+Chen C. W., Zebker H. A. Network approaches to two-dimensional phase unwrapping: Intractability and two new algorithms. Journal of the Optical Society of America A: Optics and Image Science, and Vision. 2000;17(3):401Ц414. DOI: 10.1364/JOSAA.17.000401
+Tribolet J. M. A New Phase Unwrapping Algorithm. IEEE Transactions on Acoustics, Speech, and Signal Processing. 1997;25(2):170Ц177. DOI: 10.1109/TASSP.1977.1162923
+Fried D. L. Least-square fitting a wave-front distortion estimate to an array of phase-difference measurements. Journal of the Optical Society of America. 1997;67(3):370Ц375. DOI: 10.1364/JOSA.67.000370
+Bhanu B., Mcclellan J. H. On the Computation of the Complex Cepstrum. IEEE Transactions on Acoustics, Speech, and Signal Processing. 1980;28(5):583Ц585. DOI: 10.1109/TASSP.1980.1163447
+Goldstein R. M., Zebker H. A., Werner C. L. Satellite radar interferometry: Two-dimensional phase unwrapping. Radio Science. 1988;23(4):713Ц720. DOI: 10.1029/RS023i004p00713
+Aoki T., Sotomaru T., Ozawa T., Komiyama T., Miyamoto Y., Takeda M. Two-dimensional phase unwrapping by direct elimination of rotational vector fields from phase gradients obtained by heterodyne techniques. Optical Review. 1998;5(6): 374Ц379. DOI: 10.1007/s10043-998-0374-4
+Fowler M. L. Phase-Based Frequency Estimation: A Review. Digital Signal Processing: A Review Journal. 2002;12(4):590Ц615. DOI: 10.1006/dspr.2001.0415
+Karout S. A., Gdeisat M. A., Burton D. R., Lalor M. J. Twodimensional phase unwrapping using a hybrid genetic algorithm. Applied Optics. 2007;46(5):730Ц743. DOI: 10.1364/AO.46.000730
+Huntley J. M., Coggrave C. R. Progress in phase unwrapping. Proceedings of SPIE. 1998;3407:86Ц93. DOI: 10.1117/12.323298
+Ўувалов –. ». –азвертка фазы радиолокационных топографических интерферограмм. Ќаука и образование: научное издание ћ√“” им. Ќ.Ё. Ѕаумана. 2012;(7):107Ц144. DOI: 10.7463/0712.0423364
+Tomioka S., Nishiyama S. Weighted denoising for phase unwrapping. Proceedings of SPIE. 2014;9019:N90190M. DOI: 10.1117/12.2039390
+Zuo C., Huang L., Zhang M., Chen Q., Asundi A. Temporal phase unwrapping algorithms for fringe projection profilometry: A comparative review. Optics and Lasers in Engineering. 2016;85:84Ц103. DOI: 10.1016/j.optlaseng.2016.04.022
+Sun Q., Fu S. Comparative analysis of gradient-fieldbased orientation estimation methods and regularized singularvalue decomposition for fringe pattern processing. Applied Optics. 2017;56(27):7708Ц7717. DOI: 10.1364/AO.56.007708
+ќписание модул€ Photomod RADAR. ќписание интерферометрического процессора. „асти 1Ц4. ћ.: «јќ Ђ–акурсї, 2007.
+Yu H., Lan Y., Yuan Z., Xu J., Lee H. Phase unwrapping in InSAR: A review. IEEE Geoscience and Remote Sensing Magazine. 2019;7(1):40Ц58. DOI: 10.1109/MGRS.2018.2873644
+«ахарова Ћ. Ќ. ћетоды радиолокационной интерферометрии в исследовании характеристик земных покровов: дис. ... канд. физ.-мат. наук: 01.04.03. ‘р€зино; 2011. –ежим доступа: https://www.dissercat.com/content/metody-radiolokatsionnoi-interferometrii-vissledovaniikharakteristik-zemnykh-pokrovov
+Tomioka S., Heshmat S., Miyamoto N., Nishiyama S. Phase unwrapping for noisy phase maps using rotational compensator with virtual singular points. Applied Optics. 2010;49(25):4735Ц4745. DOI: 10.1364/AO.49.004735
+Sosnovsky A. V., Kobernichenko V. G. An InSAR phase unwrapping algorithm with the phase discontinuity compensation. CEUR Workshop Proceedings. 2017;2005:127Ц136. Available at: http://ceur-ws.org/Vol-2005/paper-15.pdf
+Sosnovsky A. V., Kobernichenko V. G. Processing of large-size insar images: parallel implementation of inverse vortex phase field algorithm. CEUR Workshop Proceedings. 2018;2274:75Ц81. Available at: http://ceur-ws.org/Vol-2274/paper-08.pdf
+Sosnovsky A., Kobernichenko V. A Method of Phase Unwrapping Algorithms Efficiency Analysis for InSAR Data Processing. In: 2020 International Conference on Information Technology and Nanotechnology (ITNT). Samara, 26Ц29 May 2020. IEEE; 2020. DOI: 10.1109/ITNT49337.2020.9253311
+Fornaro G., Franceschetti G., Lanari R. Interferometric SAR phase unwrapping using GreenТs formulation. IEEE Transactions on Geoscience and Remote Sensing. 1996;34(3):720Ц727. DOI: 10.1109/36.49975127. ENVI SARscape products. L3HARRIS Geospatial. Available at: https://www.l3harrisgeospatial.com/Software-Technology/ENVISARscape

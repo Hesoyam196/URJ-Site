@@ -1,0 +1,28 @@
+.edition {
+	display: flex;
+	flex-direction: column;
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 10px;
+}
+
+.edition-title {
+	text-align: center;
+	font-size: 26px;
+}
+
+.current-edition-img {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button-link {
+	margin: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+
+li {
+	margin-bottom: 5px;
+}

@@ -1,0 +1,8 @@
+autodyne
+autodyne signal
+autodyne response
+frequency modulation
+nonlinearity
+modulation characteristic
+short-range radar
+Gunn-diode oscillator

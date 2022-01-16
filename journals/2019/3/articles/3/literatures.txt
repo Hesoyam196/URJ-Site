@@ -1,0 +1,5 @@
+Holami G., Mehrpourbernety H., Zakeri B. UWB Phased Array Antennas for High Resolution Radars. In: Proceedings of the 2013 International Symposium on Electromagnetic Theory, 2003. Pp. 532–535.
+Barret T. W. History of Ultra Wide Band (UWB) radar & communications: pioneers and inventors. In: Progress in Electromagnetics Research Symp. 2000, Cambridge, MA, July. 2000. Pp. 5–29.
+Lagovsky B. A., Samokhin A. B., Shestopalov Y. V. Increasing accuracy of angular measurements using UWB signals. In: 11th European Conference on Antennas and Propagation (EUCAP). IEEE Conference Publications. Paris; 2017. Pp. 1083–1086.
+Вендик О. Г. Антенны с немеханическим движением луча. М.: Сов. Радио; 1965.
+Lagovsky B., Samokhin A., Shestopalov Y., Increasing the Range of UWB Radars. In: Proc. 2018 12th European Conf. on Antennas and Propagation (EUCAP), London, 2018, UK, Ser. IET Conference Publications; CP741. DOI: 10.1049/cp.2018.1255

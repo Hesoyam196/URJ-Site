@@ -1,15 +1,8 @@
 <?php
 session_start();
-	function protect_page() {
-		if (logged_in() === False ) {
-						header("Location: index.php");
-				}
-			}
-
-	function logged_in() {
-		return(isset($_SESSION['login'])) ? true : False;
-		}
-		protect_page();
+	function protect_page() { if (logged_in() === False ) {	header("Location: index.php"); } }
+	function logged_in() { return(isset($_SESSION['login'])) ? true : False; }
+	protect_page();
 ?>
 <!DOCTYPE html>
 <html>
@@ -27,23 +20,27 @@ session_start();
 	<?php require "authorization.php" ?>
 	<?php require "header.php"?>
   <main>
+		<h1>Добавление нового журнала</h1>
       <form action="php/download_data.php" class="downloadform" method="POST" enctype="multipart/form-data">
+				<h4>Заполните поля:</h4>
+				<div class="journal-items">
         <label>
-          Обложка:<br>
-          <input type="file" name="cover" id="cover">
+          Обложка: <span>*</span><br>
+          <input required type="file" name="cover" id="cover">
         </label>
         <label>
-          PDF файл:<br>
-          <input type="file" name="file" id="file">
+          PDF файл: <span>*</span><br>
+          <input required type="file" name="file" id="file">
         </label>
         <label>
-          Год выпуска:<br>
-          <input type="text" name="year" id="year">
+          Год выпуска: <span>*</span><br>
+          <input required type="text" name="year" id="year">
         </label>
+			</div>
         <div class="articles" id="parentId">
         </div>
-        <a class="button-article" onclick="return addField()" href="#">Добавить статью</a>
-        <input class="button-link" type="submit" value="Добавить журнал">
+        <a class="article-button" onclick="return addField()" href="#">Добавить статью</a><br>
+        <input class="button-link" type="submit" value="Добавить выпуск">
         <input type="hidden" name="articles_count" id="articles_count" value="0">
       </form>
 		</main>

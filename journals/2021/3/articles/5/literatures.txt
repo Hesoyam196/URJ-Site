@@ -1,0 +1,6 @@
+Плодухин Б. В. Коаксиальные диапазонные резонаторы. М.: Советское радио; 1956. 240 с.
+Прокимов А., Джуринский К., Смирнова Ю. Перспективные изоляционные материалы для радиочастотных кабелей и соединителей. Компоненты и технологии. 2017;(2):10–113.
+Risley E. W. Discontinuity capacitance of a coaxial line terminated in a circular Waveguide. IEEE Transactions on Microwave Theory and Techniques. 1969;17(2):86–92. DOI: 10.1109/TMTT.1969.1126893
+Вайнштейн Л. А. Теория дифракции и метод факторизации. М.: Советское радио; 1966. 431 с.
+Razaz M., Davies J. B. Capacitance of the abrupt transition from coaxial-to-circular waveguide. IEEE Transactions on Microwave Theory and Techniques. 1979;27(6):564–569. DOI: 10.1109/TMTT.1979.1129672
+Хибель М. Основы векторного анализа цепей [пер. С. М. Смольский; У. Филипп (ред.)]. М.: Издательский дом МЭИ; 2009. 500 с.

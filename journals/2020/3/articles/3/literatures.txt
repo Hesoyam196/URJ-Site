@@ -1,0 +1,58 @@
+Мартенс Л.К. (ред.) Техническая энциклопедия. М.: Советская энциклопедия; 1929. T. 1.
+Мазор Ю.Л., Мачусский Е.А., Правда В.И. (ред.) Радиотехника: Энциклопедия. М.: Додэка-XXI; 2010.
+Round H.J. Improvements in Receivers for use in Wireless Telegraphy. Patent GB191328413, 09.12.1913.
+Marconi W.T., Round H.J. Improvements in the Production of Continous Electrical Oscillations, and in the utilization thereof for Wireless Telegraphy and Telephony. Patent GB191413248, 29.05.1914.
+Morse A.H. Radio: Beam and Broadcast. Its Story and Patents. London: Ernest Benn Limited; 1925.
+Collins A.F. The Radio Amateur’s Hand Book. New York: T.Y. Crowell, Revised edition; 1922.
+Turker D.G. The History of Positive Feedback: The Oscillating Audion, the Regenerative Receiver, and other applications up to around 1923. The Radio and Electronic Engineer. 1972;42(2):69–80.
+Шамшур В.И. Первые годы советской радиотехники и радиолюбительства. М.: Госэнергоиздат; 1954.
+Austin L.W. Reception Measurements at Naval Radio Research Laboratory, Washington. Proceedings of the Institute of Radio Engineers. 1922;10(3):158–160.
+Галеев Б.М. Легендарный Термен. Репрессированная наука. Л.: Наука; 1991.
+Лебединский В.К. Радио, его достижения и перспективы. В: Иоффе А.Ф., Кржижановский Г.М., Лапиров-Скобло М.Я., Ферсман А.Е. (ред.) Наука и техника СССР: 1917–1927. М.: Работник просвещения; 1928. С. 263–316.
+Лосев О.В. Детектор-генератор; детектор-усилитель. Телеграфия и телефония без проводов. 1922;(14):374–366.
+Лосев О.В. У истоков полупроводниковой техники. Избранные труды. Л.: Наука; 1971.
+Новиков М.А. Олег Владимирович Лосев – пионер полупроводниковой электроники (К столетию со дня рождения). Физика твердого тела. 2004;46(1):5–9.
+Сифоров В.И. (ред.) Электроника: прошлое, настоящее, будущее. М.: Мир; 1980.
+Самохин В.П., Киндяков Б.М. Памяти Эдвина Армстронга (18.12.1890–31.01.1954). Наука и образование. 2014;(1). Режим доступа: http://engineering-science.ru/doc/695338.html
+Colebrook F.M. Homodyne. Wireless World and Radio Rev. 1924(13):774.
+Tucker D.G. The History of the Homodyne and Synchrodyne. Journal of the British Institution of Radio Engineers. 1954;14(4):143–154.
+Beatty R.T. The apparent demodulation of weak station by a strong one. The Wireless Engineer and Experimental Wireless. 1928(6):412–420.
+Кияшко А. О чем писал журнал «Радиолюбитель» № 10, 1930 г. Радио. 1989(10):95.
+Aiken С.B. Theory of the detection of two modulation waves by a linear rectifier. Proc. IRE. 1933;21(4):601–629.
+Момот Е.Г. Проблемы и техника синхронного радиоприема. М.: Госэнергоиздат; 1941.
+Hobson G.S., Thomas M. Direct frequency demodulation with frequency-locked Gunn oscillators. Electronics Letters. 1971;7(3):67–68.
+Фомин Н.Н. (ред.) Радиотехнические устройства СВЧ на синхронизированных генераторах. М.: Радио и связь; 1991.
+Cnaffee J.G. The application of negative feedback to frequency modulation systems. Proceedings of the IRE. 1939;27(5):317–331.
+Виницкий А.С. Передатчик или приемник частотно-модулированных колебаний. Авт. свид. № 63529. (СССР) Заявл. 09.09.1940, опубл. 30.04.1944.
+Евтянов С.И., Шеманаев Г.Д. Синхронизация автогенератора со следящей подстройкой контура. Электросвязь. 1962;(5):3–11.
+Гусева В.А., Родионов Я.Г. Синхронизированный автогенератор со следящей настройкой. Электросвязь. 1969;(11):31–38.
+Алексеев Ю.И. Устойчивость автодинных асинхронных СВЧ-систем. Радиотехника. 1994;(3):36.
+Алексеев Ю.И. Автодинный частотный преобразователь миллиметрового диапазона. Радиотехника. 2003;(2):76–78.
+Горбин В.В., Малышев В.А., Петросян А.В. Автодинный асинхронный детектор СВЧ на туннельном диоде, работающий на гармониках частоты генерации. Радиотехника. 1976;31(12):58–62.
+Левтеров А.Н., Радченко А.Ф., Кротов В.И. Исследование асинхронного детектора с самонакачкой на диоде Ганна. Радиотехника. 1984;(1):37–38.
+Демьяненко А.В., Алексеев Ю.И. Использование лавинно-пролетного диода для детектирования СВЧ амплитудно-модулированных оптических колебаний. Известия высших учебных заведений. Электроника. 2010(4):70–74.
+Демьяненко А.В., Алексеев Ю.И., Ковтун Д.Г. Импедансные свойства лавинно-пролетного диода в режиме автодинного преобразования оптических СВЧ-модулированных колебаний. Известия высших учебных заведений. Радиоэлектроника. 2013;(3):75–79.
+Ле Тхай Шон, Алексеев Ю.И., Орда-Жигулина М.В. Чувствительность системы автодинного детектирования СВЧ-амплитудно-модулированных оптических сигналов. Известия высших учебных заведений. Электроника. 2013;(1):68–72.
+Алексеев Ю.И. О некоторых аспектах применения автодинных асинхронных радиотехнических систем. Радиотехника и электроника. 2013;58(7):699–703.
+Алексеев Ю.И., Демьяненко А.В. Сопоставление результатов детектирования СВЧ-модулированных оптических колебаний лавиннопролетными диодами в режимах усиления, генерации и автодинного преобразования. Антенны. 2014;(9):75–78.
+Sunstein D.E.A New Self-Oscillating Frequency Converter. IRE Transactions on Broadcast and Television Receivers. 1955;BTR-1(1):29–35.
+Nagano S., Ueno H., Kondo H., Murakami H. Self-excited microwave mixer with a Gunn diode and its apphcations to Doppler radar. Transaction IECE Japan. 1969:52-B(3):179–180.
+Lazarus M.J., Novak S., Bullimore E.D. A Sensitive Millimeter-Wave Self-Oscillating Gunn Diode Mixer. Procedings of the IEEE. 1971:59(5):812–814.
+Kotani M., Mitsui S. Self-Mixing Effect of Gunn Oscillator. Electronics and Communication in Japan. 1972;55-B(12):60–67.
+Inngs M.R. Self-Oscillating Mixer Cuts Antenna Test Costs. MicroWaves. 1978:17(4):100–102.
+Dixon S., Jacobs H. Millimeter wave self-mixing oscillators. International Journal of Infrared and Millemeter Waves. 1981;2(2):347–360.
+Pantoja F.R., Calazans E.T. Teoretical and Experimental Studies of Gain Compression of Millimeter-Wave Self-Oscillating Mixers. IEEE Transactions on Microwave Theory and Techniques. 1985;33(3):181–186.
+Itoh T. Quasi-optical microwave circuits for wireless applications. Microwave Journal. 1995;38(1):64–85.
+Itoh T., Hsu F.J. Distributed Bragg Reflector Gunn Oscillators for Dielectric Millimeter-Wave Integrated Circuits. IEEE Trans. Microwave Theory and Techniques. 1979;27(5):514–518.
+Song B.S., Itoh T. Distrbuted Bragg Reflection Dielectric Waveguide Oscillators. IEEE Trans. Microwave Theory and Techniques. 1979;27(12):1019–1022.
+Pobanz C.W., Itoh T. Active integrated antennas. IEEE Potentials. 1997;16(2):6–10.
+Chang K., York R.A., Hall P.S., Itoh T. Active integrated antennas. IEEE Transactions on Microwave Theory and Techniques. 2002;50(3):937–944.
+Hwang V.D., Itoh T. Quasi-Optical HEMT and MESFET Self-Oscillating Mixers. IEEE Transactions on Microwave Theory and Techniques. 1988;36(12):1701–1705.
+Chew S.T., Itoh T. Application of Voltera Series to the Problem of Self-Oscillating Mixer. IEEE Transactions on Microwave Theory and Techniques. 1996;44(2):269–274.
+Sironen M., Qian Y., Itoh T. A Subharmonic Self-Oscillating Mixer with Integrated Antenna for 60-GHz Wireless Applications. IEEE Transactions on Microwave Theory and Techniques. 2001;49(3):442–450.
+Siegel P.H. Terahertz Pioneer: Tatsuo Itoh “Transmission Lines and Antennas: Left and Right”. IEEE Transactions on Terahertz Science and Technology. 2014;4(3):298–306.
+Zhang J., Wang Y., Chen Z, Integration of a Self-Oscillating Mixer and an Active Antenna. IEEE Microwave and Guided Wave Letters. 1999;9(3):117–119.
+Zhen-Yu Zhang, Ke Wu, Ning Yang. A Millimeter-Wave Sub-Harmonic Self-Oscillating Mixer Using Dual-Mode Substrate Integrated Waveguide Cavity. IEEE Transactions on Microwave Theory and Techniques. 2010;58(5):1151–1158.
+Sun-Hwa Jeong, Hee-Yong Hwang. X-Band Self Oscillating Mixer With Resonator-Antenna Filter. IEEE Microwave and Wireless Components Letters. 2014;24(9):611–613.
+Ho S.S.K., Saavedra C.E. A low-noise self-oscillating mixer using a balanced VCO load. IEEE Trans. Circuits Systems. I: Regular Papers. 2011;58(8):1705–1712.
+Saavedra C.E., Jackson B.R., Ho S.S.K. Self-Oscillating Mixers:A Natural Fit for Active Antennas. IEEE Microwave Magazine. 2013;14(6):40–49.

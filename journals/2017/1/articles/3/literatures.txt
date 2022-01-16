@@ -1,0 +1,8 @@
+Glushkov V. M., Amosov N. M., Artemenko I. A. Entsiklopediya kibernetiki (tom 2). Kiev, 1974. 267 p.
+Bellman R. Dinamicheskoe programmirovanie. Moscow, Izdatelstvo inostrannoy literaturyi Publ., 1960. 400 p.
+Bellman R., Dreyfus S. Prikladnyie zadachi dinamicheskogo programmirovaniya. Moscow, Nauka Publ., 1965. 458 p.
+Bellman R., Kalaba R. Dinamicheskoe programmirovanie i sovremennaya teoriyau pravleniya. Moscow, Nauka Publ., 1969. 118 p.
+Shitikov V. K., Rozenberg G. S., Zinchenko T. D. Kolichestvennaya gidroekologiya: metody i sistemnoy identifikatsii. Tolyatti, IEVBRAN Publ., 2003. 344 p.
+Rabiner L. A. Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition. IEEE XploreDigital Library, 1989.
+Dorosinskiy L. G. Osnovy i teorii prinyatiya resheniy. Saarbrucken, LAP LAMBERT Academic Publishing, 2014. 47 p.
+Gmurman V. E. Teoriya veroyatnostey i matematicheskaya statistika. Moscow, Uchebnoe posobie dlya vuzov Publ., 2004. 251 p.

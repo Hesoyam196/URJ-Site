@@ -1,0 +1,83 @@
+h1 {
+	text-align: center;
+	font-size: 36px;
+}
+
+h4 {
+	margin-bottom: 15px;
+}
+
+body {
+	color: #262626;
+}
+
+.downloadform {
+	border: 1px solid #363636;
+	border-radius: 5px;
+	width: 75%;
+	padding: 35px;
+	margin: 15px;
+	margin-top: 25px;
+	display: flex;
+	flex-direction: column;
+	background: linear-gradient(45deg, rgba(234, 209, 255, 0.3), 30%,rgba(255, 249, 222, 0.3));
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.button-link{
+	font-size: 18px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 240px;
+	height: 40px;
+	background: none;
+	color: white;
+	background-color: #4C83AC;
+	border-radius: 10px;
+}
+
+.article-button {
+	text-align: center;
+	width: 140px;
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+	padding: 7px;
+	margin: 0;
+	margin-right: auto;
+	margin-top: 25px;
+	border: 1px solid #899FB3;
+	border-radius: 10px;
+	text-align: center;
+	background-color: #E8E8E8;
+	font-size: 16px;
+}
+
+label {
+	display: block;
+	margin-top: 25px;
+}
+
+.article .article-button {
+	display: block;
+	margin-right: auto;
+}
+
+.journal-items {
+	padding-bottom: 25px;
+	border-bottom: 1px solid black;
+}
+
+textarea {
+	height: 64px;
+	resize: none;
+	width: 80%;
+}
+
+span {
+	all: unset;
+	font-weight: bold;
+}

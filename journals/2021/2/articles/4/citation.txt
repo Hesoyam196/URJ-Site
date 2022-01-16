@@ -1,0 +1,1 @@
+Pustoshilov A. S., Tsarev S. P. Detecting cycle slips in carrier-phase measurements of single frequency navigation receivers with different instabilities of reference oscillators. Ural Radio Engineering Journal. 2021;5(2):144–161. DOI: 10.15826/urej.2021.5.2.004.

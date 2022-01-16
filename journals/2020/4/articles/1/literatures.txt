@@ -1,0 +1,12 @@
+Gudkov A.G., Onufrievich A.D., Kayumova L.I. et al. Thawer for cryopreserved blood products «Plasmoterm-4»: solution to the problem of ensuring the accuracy of the heat treatment process. Biomedical Technologies and Radio Electronics. 2007;6:39-43.
+Scott E., Puca K., Heraly J., et al. Evaluation and comparison of coagulation factor activity in fresh-frozen plasma and 24-hour plasma at thaw and after 120 hours of 1 to 6°C storage. Transfusion. 2009;49:1584-1591.
+Kuta P., Melling N., Zimmermann R., Achenbach S., Eckstein R., and Strobel J. Clotting factor activity in fresh frozen plasma after thawing with a new radio wave thawing device. Transfusion. 2019;59(5):1857-1861.
+US5616268A. Microwave blood thawing with feedback control.
+Heymann, C., Pruss, A., Sander, M., et al. Thawing Procedures and the Time Course of Clotting Factor Activity in Fresh-Frozen Plasma: A Controlled Laboratory Investigation. Anesthesia & Analgesia. 2006; 103(4):969-974.
+Zhdanov A.E., Dorosinskiy L.G. Influence of the temperature field on the defrostation time of plasma bag. Zenodo. 2021. DOI: 10.5281/zenodo.4442368.
+Borsani E., Rodella L.F., Sorbellini E., et al. Intraepidermal Injetions of Autologus Epidermal Ctll Suspension: A new promissing approach to Dermatological. Preliminary Study. 2017;6.
+Baust J.M., Campbell L.H., Harbell L.W. Best practices for cryopresserving, thawing, recovering, and assessing cells. Springer Link. 2017;9.
+Pinki S., Mohan G., Rafi A.M., et al. Rapid dry plasma thawing system: An alternative to conventional thawing baths. Asian J Transfus Sci. 2017;11:147–150.
+Negodyaev K.E., Zhdanov A.E., Borisov V.I. and Dorosinsky L.G. Overview of Blood Mixers for Transfusion Therapy: Characteristics, Features, and Development Potential. In: 2020 Ural Symposium on Biomedical Engineering, Radioelectronics and Information Technology (USBEREIT), Yekaterinburg, Russia, 2020, pp. 109-112.
+Evdochim L., Zhdanov A.E., Borisov V.I., Dobrescu D. Reflection Coefficient in Pressure Pulse of Human Blood Flow. In: 2020 13th International Conference on Communications (COMM), Bucharest, Romania, 2020, pp. 65-68.
+Evdochim L., Zhdanov A.E., Borisov V.I., Dobrescu D. and Dorosinsky L.G. Blood Mixers for Transfusion Therapy: Photoplethysmogram application for blood velocity determination. In: 2020 IEEE International Symposium on Medical Measurements and Applications (MeMeA), Bari, Italy, 2020, pp. 1-6.

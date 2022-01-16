@@ -1,0 +1,14 @@
+Van Bladel j. Electromagnetic fields. IEEE Press, 2007. Pp. 943–1000.
+Shiozawa T. Phenomenological and electron-theoretical study of the electrodynamics of rotating systems. Proc. of the IEEE, 1973, vol. 61, no. 12.
+Van Bladel j. Electromagnetic fields in the presence of rotating bodies. Proc. of the IEEE, 1976, vol. 64, no. 3.
+Sahrani S., Iwamatsu H., Kuroda M. A novel approach for the analysis of electromagnetic field with rotating body. ACES Journal, 2011, vol. 26, no. 8, pp. 651–659.
+Brignone M., Ramakrishnan P. K., Raffetto M. A first numerical assessment of the reliability of finite element simulators for time-harmonic electromagnetic problems involving rotating axisymmetric objects. Proc. EMTS, Espoo, 2016.
+Van Bladel j. Relativity and engineering. Springer Series in Electro? physics, 1984, vol. 15, Berlin.
+De Zutter D. Scattering by a rotating circular cylinder with finite conductivity. IEEE Trans. Antennas Propagat., 1983, vol. AP-31, no.1, pp. 166–169.
+Collier j. R., Tai C. T. Propagation of plane waves in lossy moving media. IEEE Trans. Antennas Propagat., 1964, vol. 12, no.3, pp. 375–376.
+Ryzhov Yu. A., Tamoikin V. V., Tatarskii V. I. Spatial dispersion of inhomogeneous media. JETP, 1965, vol. 21, no.2, pp. 433–438.
+Zeyde K. M. Linear dependences of secondary field parameters versus angular velocity of scatterer. Proc. SibCON. Omsk, 2015.
+De Zutter D. Scattering by a rotating dielectric sphere. IEEE Trans. Antennas Propagat., 1980, vol. AP-28, no.5, pp. 643–651.
+IEEE standard for validation of computational electromagnetics computer modeling and simulations, IEEE Std 1597.1, 2008.
+Duffy A., Orlandi A. A review of statistical methods for comparing two data sets. ACES Journal, 2008, vol. 23, no. 1, pp. 90–97.
+Kyurkchan A. G., Smirnova N. I. The solution of diffraction problems by a method of elementary scatterers. EW and ES, 2011, vol.16, no.8. 15. Schaubert D. H., Wilton D. R., Glisson A. W. A tetrahedral modeling method for electromagnetic scattering by arbitrarily shaped inhomogeneous dielectric bodies. IEEE Trans. on Antennas and Propagat., 1984, vol. AP-30, no.1.

@@ -1,0 +1,11 @@
+Skolnik M. Radar Handbook. 3rd ed. McGraw-Hill Education; 2008. 1328. p.
+Ruck G. Radar Cross Section Handbook. Peninsula Pub; 1989. 496 p.
+Knott E., Shaeffer J., Tuley M. Radar Cross Section. 2nd ed. SciTech Publishing; 2004. 637 p.
+Kobak V.O. Radar Scatterers. Moscow: Sovetskoe radio; 1975. 248 p. (In Russ.)
+Shtager E.A. Physical Foundations of Stealth Technology. St. Petersburg: VVM; 2013. 276 p. (In Russ.)
+Astanin L.Yu., Kostylev A.A. Basis of ultrawideband radar measurements. Moscow: Radio i svyaz; 1989. 192 p. (In Russ.)
+Stoica P., Moses R. Spectral Analysis of Signals. Prentice Hall; 2004. 427 p.
+Ozdemir C. Inverse Synthetic Radar Imaging with MATLAB Algorithms. Wiley; 2012. 383 p.
+Zeng H., Zhao X., Su Q., Zhang Y., Li H. Fast coating analysis and modeling for RCS reduction of aircraft. Chinese Journal of Aeronautics. 2019;32(6):1481–1487. DOI: 10.1016/j.cja.2018.11.001
+Andrade L., Santos L., Gama A. Analysis of radar cross section reduction of fighter aircraft by means of computer simulation. Journal of Aerospace Technology and Management. 2014;6(2):177–182. DOI: 10.5028/jatm.v6i2.259
+Liu S., Guo L., Pan W., Chen W., Xiao Y. PO calculation for reduction in radar cross section of hypersonic targets using RAM. Physics of Plasmas. 2018;25(6):062105. DOI: 10.1063/1.5030194
