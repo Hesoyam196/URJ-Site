@@ -5,7 +5,7 @@ $years = array_diff(scandir($path_journals, 1), array('..', '.'));
 foreach ($years as $key_year => $year) {
   $journals_in_year = array_diff(scandir($path_journals . "/" . $year), array('..', '.'));
   if (is_dir($path_journals . "/" . $year) && count($journals_in_year) != 0) {
-    echo "<img class=\"delimeter\" src=\"/../img/delimeter.png\">
+    echo "
     <div class=\"year\">
 				<h3>" . $year . "</h3>";
     foreach ($journals_in_year as $key_journal => $journal) {

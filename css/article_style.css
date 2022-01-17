@@ -1,0 +1,99 @@
+li {
+	margin-bottom: 5px;
+	font-size: 18px;
+}
+
+ol {
+	margin-left: 0;
+	padding: 20px;
+}
+
+.title {
+	font-size: 28px;
+	text-align: center;
+	margin: 15px;
+	margin-bottom: 0;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+.content {
+	margin: 25px;
+	margin-top: 0;
+	padding-top: 0;
+	border-radius: 10px;
+	padding: 15px;
+	padding-left: 25px;
+}
+
+.autors {
+	margin-right: 25px;
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 25px;
+	padding-top: 10px;
+	margin-left: 25px;
+}
+
+.annotation {
+	margin-right: 25px;
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 25px;
+	margin-left: 25px;
+	padding-top: 10px;
+}
+
+.keywords {
+	margin-right: 25px;
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 25px;
+	margin-left: 25px;
+	padding-top: 10px;
+}
+
+.citation {
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 25px;
+	padding-top: 10px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+main p {
+	margin-left: 0px;
+}
+
+.download {
+	text-align: center;
+	vertical-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-bottom: 0;
+	border-radius: 15px;
+	margin-top: 50px;
+	width: 20%;
+	padding: 10px;
+}
+.link {
+	display: block;
+	margin: 45px 25px;
+	font-size: 20px;
+}
+
+.link a {
+		font-style: italic;
+}
+
+.literatures {
+	margin-left: 25px;
+}
+
+.keywords span {
+	display: inline-block;
+	margin: 10px 15px 10px 0;
+	color: black;
+	padding: 10px;
+	border-radius: 5px;
+	background: linear-gradient(45deg, rgba(234, 209, 255, 0.8), rgba(255, 249, 222, 0.8));
+}

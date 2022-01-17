@@ -1,19 +1,19 @@
-Zeyde K.M., Sharov V.V., Ronkin M.V. Guided microwaves electromagnetic drag over the sensitivity threshold experimental observation. WSEAS Transactions on Communications. 2019;18:191Ц205.
-Zeyde K.M., Sharov V.V. Fluid flow sensors design based on electromagnetic drag effect. In: 2019 International Conference on Control, Artificial Intelligence, Robotics & Optimization (ICCAIRO), Athens, Greece, 8Ц10 Dec. 2019, pp. 48Ц53. DOI: 10.1109/ICCAIRO47923.2019.00017.
-Parkash A., Vaid J.K., Mansingh A. Measurement of dielectric parameters at microwave frequencies by cavity-perturbation technique. IEEE Transactions on Microwave Theory and Techniques. 1979;27(9):791Ц795. DOI: 10.1109/TMTT.1979.1129731.
-Kraszewski A.W., Nelson S.O. Observations on resonant cavity perturbation by dielectric objects. IEEE Transactions on Microwave Theory and Techniques. 1992;40(1):151Ц155.
-Santra M., Limaye K.U. Estimation of complex permittivity of arbitrary shape and size dielectric samples using cavity measurement technique at microwave frequencies. IEEE Transactions on Microwave Theory and Techniques. 2005;53(2):718Ц722. DOI: 10.1109/TMTT.2004.840570.
-Nelatury S.R., Nelatury C.F. A comparison of perturbation formulas for a square electromagnetic resonator. IEEE Antennas and Propagation Magazine. 2014;56(1):130Ц142. DOI: 10.1109/MAP.2014.6821764.
-ƒжексон ƒж.  лассическа€ электродинамика. ћ.: ћир; 1965.
-—еменов Ќ.ј. “ехническа€ электродинамика. ћ.: —в€зь; 1973.
+Zeyde K.M., Sharov V.V., Ronkin M.V. Guided microwaves electromagnetic drag over the sensitivity threshold experimental observation. WSEAS Transactions on Communications. 2019;18:191–205.
+Zeyde K.M., Sharov V.V. Fluid flow sensors design based on electromagnetic drag effect. In: 2019 International Conference on Control, Artificial Intelligence, Robotics & Optimization (ICCAIRO), Athens, Greece, 8–10 Dec. 2019, pp. 48–53. DOI: 10.1109/ICCAIRO47923.2019.00017.
+Parkash A., Vaid J.K., Mansingh A. Measurement of dielectric parameters at microwave frequencies by cavity-perturbation technique. IEEE Transactions on Microwave Theory and Techniques. 1979;27(9):791–795. DOI: 10.1109/TMTT.1979.1129731.
+Kraszewski A.W., Nelson S.O. Observations on resonant cavity perturbation by dielectric objects. IEEE Transactions on Microwave Theory and Techniques. 1992;40(1):151–155.
+Santra M., Limaye K.U. Estimation of complex permittivity of arbitrary shape and size dielectric samples using cavity measurement technique at microwave frequencies. IEEE Transactions on Microwave Theory and Techniques. 2005;53(2):718–722. DOI: 10.1109/TMTT.2004.840570.
+Nelatury S.R., Nelatury C.F. A comparison of perturbation formulas for a square electromagnetic resonator. IEEE Antennas and Propagation Magazine. 2014;56(1):130–142. DOI: 10.1109/MAP.2014.6821764.
+Джексон Дж. Классическая электродинамика. М.: Мир; 1965.
+Семенов Н.А. Техническая электродинамика. М.: Связь; 1973.
 Marcuvitz N. Waveguide handbook. London: IET; 1986.
-Hernandez A., Martin E., Margineda J., Zamarro J.M. Resonant cavities for measuring the surface resistance of metals at X-band frequencies. Journal of Physics E Scientific Instruments. 1986;(19):222Ц225.
-Kajfez D., Hwan E.J. Q-factor measurement with network analyzer. IEEE Transactions on Microwave Theory and Techniques. 1984;32(7):666Ц670.
-Peng Z., Hwang J.-Ya., Andriese M. Maximum sample volume for permittivity measurements by cavity perturbation technique. IEEE Transactions on Instrumentation and Measurement. 2014;63(2):450Ц455.
-Kim C.-K., Minz L., Park S.-O. Improved measurement method of material properties using continuous cavity perturbation without relocation. IEEE Transactions on Instrumentation and Measurement. 2020;69(8):5702Ц5716.
-Miura T, Tahara K., Sugiyama J.-I., Horibe M. Q-factor change of cavity by sample installation in resonance perturbation method. In: Proceedings of the 45th European Microwave Conference, Paris, France, 7Ц10 Sept. 2015, pp. 738Ц741. DOI: 10.1109/EuMC.2015.7345869.
-Nishikata A. Scattering analysis for layered cylindrical object perpendicularly piercing the wider walls of a rectangular waveguide and its application to ?r and ?r measurement. IEEE Transactions on microwave theory and techniques. 2009;57(6):1602Ц1611.
-Zeyde K.M. Verified simulation of waveguide inhomogeneities in Keysight EMPro 2017 software. Ural Radio Engineering Journal. 2018;2(4):67Ц76. DOI: 10.15826/urej.2018.2.4.005.
-«ейде  .ћ. „исленное восстановление электрофизических параметров сферы в пр€моугольном волноводе на —¬„. ¬: —борник трудов конференции RLNC 2019. 2019. “. 6. —. 94Ц100.
-Hamid A.-K., AlSunaidi M. Inverse scattering by dielectric circular cylindrical scatterers using a neural network approach. In: IEEE Antennas and Propagation Society International Symposium, Montreal, Canada, 13Ц18 July 1997, pp. 2278Ц2281. DOI: 10.1109/APS.1997.625424.
-Bhattacharya M., Gupta B. Neural network model of S-parameters for a dielectric post in rectangular waveguide. In: Proceedings of International Conference on Recent Advances in Microwave Theory and Applications, Jaipur, India, 21Ц24 Nov. 2008, pp. 581Ц583. DOI: 10.1109/AMTA.2008.4763000.
+Hernandez A., Martin E., Margineda J., Zamarro J.M. Resonant cavities for measuring the surface resistance of metals at X-band frequencies. Journal of Physics E Scientific Instruments. 1986;(19):222–225.
+Kajfez D., Hwan E.J. Q-factor measurement with network analyzer. IEEE Transactions on Microwave Theory and Techniques. 1984;32(7):666–670.
+Peng Z., Hwang J.-Ya., Andriese M. Maximum sample volume for permittivity measurements by cavity perturbation technique. IEEE Transactions on Instrumentation and Measurement. 2014;63(2):450–455.
+Kim C.-K., Minz L., Park S.-O. Improved measurement method of material properties using continuous cavity perturbation without relocation. IEEE Transactions on Instrumentation and Measurement. 2020;69(8):5702–5716.
+Miura T, Tahara K., Sugiyama J.-I., Horibe M. Q-factor change of cavity by sample installation in resonance perturbation method. In: Proceedings of the 45th European Microwave Conference, Paris, France, 7–10 Sept. 2015, pp. 738–741. DOI: 10.1109/EuMC.2015.7345869.
+Nishikata A. Scattering analysis for layered cylindrical object perpendicularly piercing the wider walls of a rectangular waveguide and its application to ?r and ?r measurement. IEEE Transactions on microwave theory and techniques. 2009;57(6):1602–1611.
+Zeyde K.M. Verified simulation of waveguide inhomogeneities in Keysight EMPro 2017 software. Ural Radio Engineering Journal. 2018;2(4):67–76. DOI: 10.15826/urej.2018.2.4.005.
+Зейде К.М. Численное восстановление электрофизических параметров сферы в прямоугольном волноводе на СВЧ. В: Сборник трудов конференции RLNC 2019. 2019. Т. 6. С. 94–100.
+Hamid A.-K., AlSunaidi M. Inverse scattering by dielectric circular cylindrical scatterers using a neural network approach. In: IEEE Antennas and Propagation Society International Symposium, Montreal, Canada, 13–18 July 1997, pp. 2278–2281. DOI: 10.1109/APS.1997.625424.
+Bhattacharya M., Gupta B. Neural network model of S-parameters for a dielectric post in rectangular waveguide. In: Proceedings of International Conference on Recent Advances in Microwave Theory and Applications, Jaipur, India, 21–24 Nov. 2008, pp. 581–583. DOI: 10.1109/AMTA.2008.4763000.

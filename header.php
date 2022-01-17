@@ -10,12 +10,13 @@
 			<li><a href="to_authors.php">Авторам</a></li>
 			<li><a href="redactors.php">Редакция</a></li>
 			<li><a href="contacts.php">Контакты</a></li>
+			<li><a href="search.php">Поиск</a></li>
 		</ul>
 	</nav>
 	<?php
 	if(isset($_SESSION['login'])) {
 		$login = $_SESSION['login'];
-		echo "<div class=\"authorization\">
+		echo "<div style=\"\" class=\"authorization\">
 		<a style=\"font-size: 32px;
 		background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
 		border-radius: 5px;
@@ -36,4 +37,9 @@
 		</div>";
 	}
 	?>
+	<button class="burger" type="button" id="navToggle">
+									 <span class="burgeritem"></span>
+									 <span class="burgeritem"></span>
+									 <span class="burgeritem"></span>
+</button>
 </header>

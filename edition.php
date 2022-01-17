@@ -72,7 +72,8 @@
 											$autors = file_get_contents($file_autors);
 											$get  = mb_detect_encoding($autors, array('utf-8', 'cp1251'));
 											$autors = iconv($get,'UTF-8', $autors);
-											echo "<li>" . $name_articles . " " . (String)$autors . "</li>";
+											$article = "<li><form action=\"article.php\" method=\"GET\"><input type=\"hidden\" name=\"path\" value=\"" . $article . "\"><button class=\"article-link\">" . $name_articles . " " . (String)$autors . "</button></form></li>";
+											echo $article;
 										}
 									?>
                 </ul>

@@ -11,18 +11,21 @@
 	<body>
 		<?php require "authorization.php" ?>
 		<?php require "header.php" ?>
-		<main>
+		<main class="to-authors">
 		<div class="ISSN">
 			<p>ISSN онлайн-версии: <span>2588-0462</span></p>
 			<p>ISSN печатной версии: <span>2588-0454</span></p>
 		</div>
 			<h1>Aвторам</h1>
+			<div class="part">
 			<p>Публикация для всех авторов бесплатна. К публикации принимаются статьи на русском и английском языках.
 			Все статьи должны содержать развернутые аннотации на английском языке.К рассмотрению принимаются ранее не
 			опубликованные и не находящиеся на рассмотрении в других журналах статьи, объемом от 0,5 до 1,5 авт.л.</p>
 
+
 			<p>Все статьи принимаются по электронной почте urj@urfu.ru</p>
-			<img class="delimeter" src="/img/delimeter.png">
+			</div>
+						<div class="part">
 			<div class="review-info">
 			Принципы рецензирования статей
 				<ol>
@@ -34,7 +37,8 @@
 					<li>Оценка языка, логики и стиля изложения.</li>
 				</ol>
 			</div>
-			<img class="delimeter" src="/img/delimeter.png">
+			</div>
+			<div style="border: none;" class="part">
 			Порядок рецензирования статьи
 			<div class="review-info">
 			При наличии редакционного решения принять статью к публикации осуществляется редакционная подготовка:
@@ -46,8 +50,6 @@
 					<li>корректура верстки.</li>
 				</ol>
 			</div>
-
-
 
 			<div class="to_authorsstyle">
 			<table class="redactions-stages">
@@ -74,11 +76,12 @@
 			</table>
 
 			<div class="article-info">
-				<a class="button-link" href="#">Требования к статьям</a>
-				<a class="button-link" href="#">Правила оформления статьи</a>
-				<a class="button-link" href="#">Публикационная этика</a>
+				<a class="button-link" target="_blank" href="files/required.pdf">Требования к статьям</a>
+				<a class="button-link" target="_blank" href="files/formalization.pdf">Правила оформления статьи</a>
+				<a class="button-link" target="_blank" href="files/ethics.pdf">Публикационная этика</a>
 			</div>
 			</div>
+		</div>
 		</main>
 		<?php require "footer.php" ?>
 	</body>

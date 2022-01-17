@@ -17,16 +17,18 @@
 			<p>ISSN печатной версии: <span>2588-0454</span></p>
 		</div>
 			<h1>Редакция</h1>
+		<div class="part">
 			<div class="main-redactor">
 			<h4>Главный редактор</h4>
 			<ul>
 			<li>Professor Sergey T Knyazev, Ural Federal University, Россия</li>
 			</ul>
 			</div>
-			<img class="delimeter" src="/img/delimeter.png">
+			</div>
 			<div class="board-redactors">
+				<div class="part">
 			<h4>Редакционный совет</h4>
-			<ul>
+			<ul class="redactors">
 				<li>Кирилл Михайлович Зейде, Уральский Федеральный Университет, Россия</li>
 				<li>Professor Igor I Abramov, Belarusian State University of Informatics and Radioelectronics, Белоруссия</li>
 				<li>Professor Evgeny F Ochin, Department of Marine Information Technology, Maritime University of Szczecin, Польша</li>
@@ -45,11 +47,13 @@
 				<li>Professor Reinhard Klette, Auckland University of Technology, Новая Зеландия</li>
 			</ul>
 			</div>
-			<img class="delimeter" src="/img/delimeter.png">
+		</div>
+		<div style="border: none;" class="part">
 			<div class="redactions-manager">
 			<h4>Зав. редакцией</h4>
 				<ul><li>Nataliya V Papylovskaya, Ural Federal University, Россия</li></ul>
 			</div>
+		</div>
 		</main>
 		<?php require "footer.php" ?>
 	</body>
