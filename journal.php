@@ -24,4 +24,5 @@
 		</main>
 		<?php require "footer.php" ?>
 	</body>
+	<script src="js/menu.js"></script>
 </html>

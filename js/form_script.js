@@ -33,6 +33,8 @@ div.innerHTML = "<h3>Статья "+String(curFieldNameId)+"</h3><label>PDF Фа
 "<label>Цитирование:<br><textarea placeholder=\"Введите цитирование...\" name=\"citation"+String(curFieldNameId)+"\" id=\"citation"+String(curFieldNameId)+"\"></textarea></label>"+
 "<label>Ключевые слова:<br><textarea placeholder=\"Введите ключевые слова через перенос строки. Например: электричество\nрадио\" name=\"keywords"+String(curFieldNameId)+"\" id=\"keywords"+String(curFieldNameId)+"\"></textarea></label>"+
 "<label>Литература:<br><textarea placeholder=\"Введите литературу через перенос строки...\" name=\"literatures"+String(curFieldNameId)+"\" id=\"literatures"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>DOI:<br><textarea placeholder=\"Введите DOI...\" name=\"DOI"+String(curFieldNameId)+"\" id=\"DOI"+String(curFieldNameId)+"\"></textarea></label>"+
+"<label>Видеофрагмент:<br><input type=\"file\" name=\"video"+String(curFieldNameId)+"\" id=\"video"+String(curFieldNameId)+"\"></label>"+
 "<a class=\"article-button\" onclick=\"return deleteField(this)\" href=\"#\">Удалить статью</a>";
 // Добавляем новый узел в конец списка полей
 document.getElementById("parentId").appendChild(div);

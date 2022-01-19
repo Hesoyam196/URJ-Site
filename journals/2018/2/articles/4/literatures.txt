@@ -7,9 +7,3 @@
 Рабинович С. Г. Погрешности измерений. Л. : Энергия, 1978. 267 с. Rabinovich S. G. Pogreshnosti izmereniy [Measurment errors]. Leningrad, Energiya Publ., 1978.262 p. (In Russian)
 Новицкий П. В., Зограф И. А. Оценка погрешностей результатов измерений. 2-е изд, перераб. и доп. Л. : Энергоатомиздат, 1991. 248 с. Novickij P. V., Zograf I. A. Otsenka pogreshnostey rezul’tatov izmereniy [Valuation of errors of measurement results]. Leningrad, Energoatomizdat Publ., 1985. 248 p. (In Russian)
 РМГ 29–2013. ГСИ. Метрология. Основные термины и определения. Введены с 01.01.2015 взамен РМГ 29–99. М. : Изд-во стандартов, 2015. RMG (transnational standardization recommendation) 29–2013. GSI (State system for ensuring uniform measurement). Metrology. Basic terms and definitions. Moscow, Izdarelstvo Standartov Publ., 2015. (In Russian)
-ISSN онлайн-версии:2588-0462
-
-
-
-
-

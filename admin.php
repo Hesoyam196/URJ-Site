@@ -15,6 +15,15 @@ session_start();
     <link rel="stylesheet" href="/css/admin_style.css">
     <script src="js/form_script.js"></script>
 		<title>Ural Radio Engineering</title>
+		<style>
+			.authorization a:first-child {
+				display: none;
+			}
+
+			.authorization  {
+				top: 35%;
+			}
+		</style>
 	</head>
 	<body>
 	<?php require "authorization.php" ?>

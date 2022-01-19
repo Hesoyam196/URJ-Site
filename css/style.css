@@ -15,8 +15,8 @@ body {
 }
 
 .main-logo{
-	display: table-cell;
-	margin-left: 17%;
+	display: flex;
+	align-items: center;
 	align-self: center;
 }
 
@@ -27,6 +27,7 @@ body {
 }
 
 header {
+	position: relative;
 	flex-wrap: wrap;
 	width: 100%;
 	display: flex;
@@ -44,6 +45,10 @@ header {
 	color: white;
 	font-weight: bold;
     list-style-type: none;
+}
+
+.header-content ul {
+	padding: 0;
 }
 
 .nav-menu li a{
@@ -78,15 +83,24 @@ header {
 	margin-left: 5px;
 }
 
+
 .nav-menu {
-	width: 50%;
 	display: flex;
 	justify-content: space-between;
 }
 
 .authorization{
-	margin-left: 10%;
+	position: absolute;
+	top: 25%;
+	right:6%;
 	align-self: center;
+}
+
+.header-content {
+	width: 62%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
 }
 
 .authorization button{
@@ -122,6 +136,20 @@ header {
 	font-weight: bold;
 	color: white;
 	margin-left: 20px;
+}
+
+.map-link {
+	text-align: center;
+	display: none;
+	border-radius: 15px;
+	color: white;
+	background-color: #4C83AC;
+	padding: 15px;
+	margin: 40px;
+	width: 240px;
+	margin-left: auto;
+	margin-right: auto;
+	text-decoration: none;
 }
 
 main {
@@ -320,11 +348,7 @@ a:not(.button-link):not(.journal):active {
 	align-self: center;
 }
 
-.current-edition-line {
-	align-self: center;
-	height: 320px;
-	margin-right: 5px;
-}
+
 
 .cover {
 	display: flex;
@@ -404,6 +428,33 @@ span {
 	cursor: pointer;
 }
 
+.nav-menu2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	top: 74%;
+	left: 0;
+	position: absolute;
+	z-index: 1;
+	width: 100%;
+	background-color: #4C83AC;
+}
+
+.nav-menu2 li{
+	margin-top: 15px;
+	list-style-type: none;
+}
+
+.nav-menu2 li a{
+	color: white;
+	text-decoration: none;
+}
+
+.nav-menu2 li:last-child{
+	margin-bottom: 15px;
+}
+
 .article-link:hover {
 	text-decoration: underline;
 }
@@ -438,19 +489,28 @@ span {
 }
 
 .burger {
-
+	z-index: 3;
+	all: unset;
 	display: none;
 	border-radius: 10px;
 	background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
 }
 
 .burgeritem{
+	z-index: 3;
     display: block;
-    width: 15px;
+    width: 20px;
 	height: 1%;
     position: relative;
-	background-color: #343036;
+	background-color: white;
 	margin: 2px;
+	border: none;
+}
+
+@media screen and (max-width: 1748px) {
+	.authorization {
+		top: 35%;
+	}
 }
 
 @media screen and (max-width: 660px) {
@@ -458,10 +518,12 @@ span {
 		display: none;
 	}
 	
-	.main-logo {
-		display: none;
-	}
-	
+
+.header-content {
+	width: 90%;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+}
 	
 	.header-title {
 		display: block;
@@ -471,14 +533,24 @@ span {
 	}
 	
 	.burger {
+			all: unset;
+		align-self: center;
 		display: block;
-			margin: 10px;
-	margin-left: 15px;
-	padding: 5px;
+		margin: 10px;
+		height: 40px;
+		width: 40px;
+		margin-left: 15px;
+		padding: 5px;
 	}
-.burgeritem{
-	height: 0.5%;
-}
+	
+	.burger .burgeritem{
+		margin-left: auto;
+		margin-right: auto;
+		background: none;
+		background-color: white;
+	}
+	
+	
 	.nav-menu {
 		display: none;
 	}
@@ -586,5 +658,17 @@ span {
 	.article-info a{
 		display: block;
 		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width: 1124px) {
+	.main-logo {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	header .nav-menu {
+		margin-left: auto;
+		margin-right: auto;
 	}
 }

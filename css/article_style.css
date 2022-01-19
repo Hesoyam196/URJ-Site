@@ -1,6 +1,7 @@
 li {
 	margin-bottom: 5px;
 	font-size: 18px;
+	word-wrap: break-word;
 }
 
 ol {
@@ -59,7 +60,35 @@ h2 {
 	margin-right: 25px;
 	margin-left: 25px;
 }
+
+video {
+	display: block;
+	border-radius: 15px;
+	width: 75%;
+	height: auto;
+	max-height: 100%;
+  	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.video {
+	border-bottom: 8px solid #4C83AC;
+	padding-bottom: 25px;
+	padding-top: 10px;
+  	margin-right: 25px;
+	margin-left: 25px;
+	padding-bottom: 50px;
+}
+
+
+.video h2{
+	padding-bottom: 20px;
+}
+
+
 main p {
+	word-wrap: break-word;
 	margin-left: 0px;
 }
 
@@ -96,4 +125,58 @@ main p {
 	padding: 10px;
 	border-radius: 5px;
 	background: linear-gradient(45deg, rgba(234, 209, 255, 0.8), rgba(255, 249, 222, 0.8));
+}
+
+@media screen and (max-width: 1200px) {
+video {
+	width: 90%;
+}
+}
+
+
+@media screen and (max-width: 600px) {
+	main .title {
+	font-size: 20px;
+}
+
+.download {
+	width: 40%;
+}
+
+video {
+	width: 100%;
+}
+
+.content {
+	margin: 10px;
+	padding: 10px;
+}
+
+.autors {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.annotation {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.keywords {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.citation {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.link {
+	margin: 45px 10px;
+}
+
+.literatures {
+	margin-left: 10px;
+}
 }

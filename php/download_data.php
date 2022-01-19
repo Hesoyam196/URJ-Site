@@ -31,6 +31,11 @@ for ($i = 1; $i <= (int)($_POST['articles_count']); $i++) {
   else {
   }
 
+  if (move_uploaded_file($_FILES['video' . (string)($i)]['tmp_name'], $current_article_path . "/" . $_FILES['video' . (string)($i)]['name'])) {
+  }
+  else {
+  }
+
   if ($_POST['name' . (string)($i)] != "") {
     $file_name = fopen($current_article_path . "/" . "name.txt", 'w') or die("не удалось создать файл");
     fwrite($file_name, $_POST['name' . (string)($i)]);
@@ -64,6 +69,12 @@ for ($i = 1; $i <= (int)($_POST['articles_count']); $i++) {
   if ($_POST['literatures' . (string)($i)] != "") {
     $file_name = fopen($current_article_path . "/" . "literatures.txt", 'w') or die("не удалось создать файл");
     fwrite($file_name, $_POST['literatures' . (string)($i)]);
+    fclose($file_name);
+  }
+
+  if ($_POST['DOI' . (string)($i)] != "") {
+    $file_name = fopen($current_article_path . "/" . "link.txt", 'w') or die("не удалось создать файл");
+    fwrite($file_name, $_POST['DOI' . (string)($i)]);
     fclose($file_name);
   }
 }

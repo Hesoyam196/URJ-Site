@@ -25,6 +25,7 @@
 				$keywords;
 				$link;
 				$pdf;
+				$video;
 
 				function get_text($file) {
 					$new_file = file_get_contents($file);
@@ -46,6 +47,7 @@
 					if (in_array("keywords", explode(".", $element))) { $keywords = $path . "/" . $element; }
 					if (in_array("link", explode(".", $element))) { $link = $path . "/" . $element; }
 					if (in_array("pdf", explode(".", $element))) { $pdf = $path . "/" . $element; }
+					if (in_array("mp4", explode(".", $element))) { $video = $path . "/" . $element; }
 				}
 
 				if (file_exists($name))
@@ -82,6 +84,11 @@
 					echo "<p>" . $autors . "</p></div>";
 				}
 
+				if ($video != "") {
+					echo "<div class=\"video\"><h2>Видеофрагмент</h2>";
+					echo "<video src=\"" . $video . "\" controls></video></div>";
+				}
+
 				if ($annotatin != "") {
 					echo "<div class=\"annotation\"><h2>Аннотация</h2>";
 					echo "<p>" . $annotatin . "</p></div>";
@@ -93,8 +100,8 @@
 				}
 
 
-				$keywords = explode("\n", $keywords);
 				if ($keywords != "") {
+					$keywords = explode("\n", $keywords);
 						echo "<div class=\"keywords\"><h2>Ключевые слова</h2><p>";
 					for ($i = 0; $i < count($keywords); $i++) {
 						echo "<span>" . $keywords[$i] . "</span>";
@@ -120,4 +127,6 @@
 		</main>
 		<?php require "footer.php" ?>
 	</body>
+	<script src="js/citation_script.js"></script>
+	<script src="js/menu.js"></script>
 </html>

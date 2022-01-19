@@ -69,7 +69,8 @@
 											$get  = mb_detect_encoding($name_articles, array('utf-8', 'cp1251'));
 											$name_articles = iconv($get,'UTF-8', $name_articles);
 
-											$autors = file_get_contents($file_autors);
+											if (file_exists($file_autors))
+												$autors = file_get_contents($file_autors);
 											$get  = mb_detect_encoding($autors, array('utf-8', 'cp1251'));
 											$autors = iconv($get,'UTF-8', $autors);
 											$article = "<li><form action=\"article.php\" method=\"GET\"><input type=\"hidden\" name=\"path\" value=\"" . $article . "\"><button class=\"article-link\">" . $name_articles . " " . (String)$autors . "</button></form></li>";
@@ -81,4 +82,5 @@
 		</main>
 		<?php require "footer.php" ?>
 	</body>
+	<script src="js/menu.js"></script>
 </html>

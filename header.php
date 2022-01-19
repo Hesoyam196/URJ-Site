@@ -1,9 +1,9 @@
 <header>
+	<div  class="header-content">
 	<div class="main-logo">
 		<a href="index.php"><img src="/img/mini-logo.png"></a>
+		<a class="header-title" href="index.php">URAL RADIO ENGINEERING JOURNAL</a>
 	</div>
-	<a class="header-title" href="index.php">URAL RADIO ENGINEERING JOURNAL</a>
-	<nav>
 		<ul class="nav-menu">
 			<li><a href="/">Главная</a></li>
 			<li><a href="journal.php">Журнал</a></li>
@@ -12,7 +12,12 @@
 			<li><a href="contacts.php">Контакты</a></li>
 			<li><a href="search.php">Поиск</a></li>
 		</ul>
-	</nav>
+		<button class="burger" type="button">
+										 <span class="burgeritem"></span>
+										 <span class="burgeritem"></span>
+										 <span class="burgeritem"></span>
+									</button>
+</div>
 	<?php
 	if(isset($_SESSION['login'])) {
 		$login = $_SESSION['login'];
@@ -32,14 +37,9 @@
 		echo "<div class=\"authorization\">
 			<button onclick=\"show('block')\">
 			<img class=\"img-auth\" src=\"/img/auth.png\">
-			<p>Авторизация</p>
 		</button>
 		</div>";
 	}
 	?>
-	<button class="burger" type="button" id="navToggle">
-									 <span class="burgeritem"></span>
-									 <span class="burgeritem"></span>
-									 <span class="burgeritem"></span>
-</button>
+
 </header>

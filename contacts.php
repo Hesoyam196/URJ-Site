@@ -22,7 +22,11 @@
 		620002, Екатеринбург, ул. Мира, 32 Почтовый адрес:
 		<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A0739c9fb8d0c26478609ff1c76674c74c5fb7dfff2a3180f62420e58477367ea&amp;width=720&amp;height=480&amp;lang=ru_RU&amp;scroll=true"></script>
 		</div>
+		<a class="map-link" target="_blank" href="https://yandex.ru/maps/54/yekaterinburg/?from=api-maps&ll=60.650803%2C56.840817&mode=usermaps&source=jsapi_2_1_79&um=constructor%3A0739c9fb8d0c26478609ff1c76674c74c5fb7dfff2a3180f62420e58477367ea&utm_medium=mysite&utm_source=api-maps&z=17">Посмотреть на карте</a>
 
+		<script>
+
+		</script>
 		<div class="contacts">
 			<div class="contact">
 				<p>Представитель редакции:<br>
@@ -39,4 +43,6 @@
 		</main>
 		<?php require "footer.php" ?>
 	</body>
+	<script src="js/map.js"></script>
+	<script src="js/menu.js"></script>
 </html>
