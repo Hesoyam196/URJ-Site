@@ -3,7 +3,8 @@ html {
 }
 
 body {
-	font-family: "Arial";
+	font-family: "Inter";
+	font-size: 16px;
 	color: #363636;
 	height: 100%;
 	display: flex;
@@ -13,6 +14,11 @@ body {
 	background-repeat: repeat;
 	background-attachment: fixed;
 }
+
+h1, h2, h3, h4 {
+	font-family: "Helvetica";
+}
+
 
 .main-logo{
 	display: flex;
@@ -37,8 +43,11 @@ header {
 }
 
 .nav-menu li {
-	padding-top: 2.5px;
-	padding-bottom: 2.5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: "Helvetica";
+	padding-top: 3px;
+	padding-bottom: 3px;
 	padding-left: 15px;
 	padding-right: 15px;
 	border-left: 1px solid #363636;
@@ -52,7 +61,6 @@ header {
 }
 
 .nav-menu li a{
-	font-family: "Arial";
 	font-size: 16px;
 	text-decoration: none;
 	color: white;
@@ -71,9 +79,9 @@ header {
 }
 
 .header-title {
+	font-family: "Helvetica";
 	text-decoration: none;
 	font-style: normal;
-	font-family: "Arial";
 	align-self: center;
 	font-size: 24px;
 	font-weight: bold;
@@ -90,6 +98,9 @@ header {
 }
 
 .authorization{
+	display: flex;
+	align-items: center;
+	font-family: "Helvetica";
 	position: absolute;
 	top: 25%;
 	right:6%;
@@ -115,7 +126,6 @@ header {
 }
 
 .authorization p{
-	font-family: "Arial";
 	font-size: 16px;
 	text-decoration: none;
 	align-self: center;
@@ -129,11 +139,10 @@ header {
 
 .authorization a{
 	vertical-align: middle;
-	font-family: "Arial";
 	font-size: 16px;
 	text-decoration: none;
 	align-self: center;
-	font-weight: bold;
+	//font-weight: bold;
 	color: white;
 	margin-left: 20px;
 }
@@ -170,7 +179,6 @@ main {
 
 footer {
 	flex: 0 0 auto;
-	font-family: "Arial";
 	font-size: 16px;
 	color: white;
 	margin: 0;
@@ -231,6 +239,7 @@ main .greeting h1 {
 }
 
 .button-link {
+	font-family: "Helvetica";
 	cursor: pointer;
 	text-decoration: none;
 	color: black;
@@ -321,7 +330,7 @@ a:not(.button-link):not(.journal):active {
 	justify-content: space-between;
 	align-items: center;
 	margin-top: 5px;
-	font-size: 20px;
+	font-size: 22px;
 	margin-left: 40px;
 }
 
@@ -377,7 +386,7 @@ span {
 	border-radius: 5px;
 	text-align: center;
 	background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .contacts p {
@@ -513,7 +522,7 @@ span {
 	}
 }
 
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 1375px) {
 	.authorization {
 		display: none;
 	}

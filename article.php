@@ -8,6 +8,7 @@
 		<link rel="stylesheet" href="/css/journal_style.css">
 		<link rel="stylesheet" href="/css/authorization_style.css">
 		<link rel="stylesheet" href="/css/article_style.css">
+		<script src="js/jquery-3.6.0.js"></script>
 		<title>Ural Radio Engineering</title>
 	</head>
 	<body>
@@ -96,7 +97,8 @@
 
 				if ($citation != "") {
 					echo "<div class=\"citation\"><h2>Цитирование</h2>";
-					echo "<p>" . $citation . "</p></div>";
+					echo "<p id=\"to-copy\">" . $citation . "</p>";
+					echo "<button class=\"citation-button\" onclick=\"copytext('#to-copy')\">Скопировать цитирование</button></div>";
 				}
 
 
@@ -127,6 +129,15 @@
 		</main>
 		<?php require "footer.php" ?>
 	</body>
+	<script>
+function copytext(el) {
+    var $tmp = $("<input>");
+    $("body").append($tmp);
+    $tmp.val($(el).text()).select();
+    document.execCommand("copy");
+    $tmp.remove();
+}
+</script>
 	<script src="js/citation_script.js"></script>
 	<script src="js/menu.js"></script>
 </html>

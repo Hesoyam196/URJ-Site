@@ -21,14 +21,16 @@
 	<?php
 	if(isset($_SESSION['login'])) {
 		$login = $_SESSION['login'];
-		echo "<div style=\"\" class=\"authorization\">
-		<a style=\"font-size: 32px;
+		echo "<div class=\"authorization\">
+		<a style=\"font-size: 16px;
 		background: linear-gradient(45deg, #FFF9DE, #EAD1FF);
 		border-radius: 5px;
 		border: 1px solid #363636;
 		color: #363636;
+		vertical-align: middle;
+		padding: 7px;
 		padding-left: 7px;
-		padding-right: 7px;\" href=\"admin.php\">+</a>
+		padding-right: 7px;\" href=\"admin.php\">Новый журнал</a>
 		<a href='php/logout.php'>Выйти</a>
 		</div>";
 	}

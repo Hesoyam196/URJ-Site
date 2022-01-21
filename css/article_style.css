@@ -1,6 +1,5 @@
-li {
+.literatures li {
 	margin-bottom: 5px;
-	font-size: 18px;
 	word-wrap: break-word;
 }
 
@@ -33,7 +32,6 @@ h2 {
 	margin-right: 25px;
 	border-bottom: 8px solid #4C83AC;
 	padding-bottom: 25px;
-	padding-top: 10px;
 	margin-left: 25px;
 }
 
@@ -54,6 +52,8 @@ h2 {
 }
 
 .citation {
+	display: flex;
+	flex-direction: column;
 	border-bottom: 8px solid #4C83AC;
 	padding-bottom: 25px;
 	padding-top: 10px;
@@ -100,18 +100,19 @@ main p {
 	display: block;
 	margin-bottom: 0;
 	border-radius: 15px;
-	margin-top: 50px;
+	margin-top: 40px;
 	width: 20%;
-	padding: 10px;
+	padding: 15px;
 }
 .link {
+	font-family: "Helvetica";
 	display: block;
 	margin: 45px 25px;
 	font-size: 20px;
 }
 
 .link a {
-		font-style: italic;
+	font-style: italic;
 }
 
 .literatures {
@@ -125,6 +126,15 @@ main p {
 	padding: 10px;
 	border-radius: 5px;
 	background: linear-gradient(45deg, rgba(234, 209, 255, 0.8), rgba(255, 249, 222, 0.8));
+}
+
+.citation-button {
+	border-radius: 5px;
+	background-color: #4C83AC;
+	padding: 15px;
+	margin: 5px auto;
+	align-self: center;
+	color: white;
 }
 
 @media screen and (max-width: 1200px) {

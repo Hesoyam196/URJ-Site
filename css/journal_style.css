@@ -1,19 +1,14 @@
-body {
-	font-family: "Arial";
-}
-
 button {
 	padding: 0;
-  border: none;
-  font: inherit;
-  color: inherit;
-  background-color: transparent;
-  cursor: pointer;
+	border: none;
+	font: inherit;
+	color: inherit;
+	background-color: transparent;
+	cursor: pointer;
 }
 
 .archive h1 {
 	margin-left: 10px;
-	font-family: "Arial";
 	font-size: 24px;
 }
 
@@ -46,9 +41,9 @@ button {
 	width: 100%;
 }
 
-.edition .journal button p{
+.edition .journal button p {
+	font-family: "Helvetica";
 	text-align: center;
-	font-family: "Arial";
 	font-size: 15px;
 	font-weight: bold;
 	margin-left: auto;
@@ -56,10 +51,10 @@ button {
 }
 
 .year h3{
+	font-family: "Helvetica";
 	margin: 0;
 	grid-column: 1/5;
 	margin-left: 20px;
-	font-family: "Arial";
 	font-size: 24px;
 	font-weight: bold;
 }
