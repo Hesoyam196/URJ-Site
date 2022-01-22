@@ -239,7 +239,7 @@ main .greeting h1 {
 }
 
 .button-link {
-	font-family: "Helvetica";
+	font-family: "Inter";
 	cursor: pointer;
 	text-decoration: none;
 	color: black;
